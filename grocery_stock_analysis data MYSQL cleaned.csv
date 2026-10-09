@@ -1,0 +1,991 @@
+Product_ID,Product_Name,Category,Stock_Quantity,Reorder_Level,Reorder_Quantity,Unit_Price,Inventory_Value,Stock_Status,Restock_Cost_Required
+29-017-6255,"Bell Pepper","Fruits & Vegetables",46,64,17,4.60,211.60,"Reorder Required",78.20
+79-569-8856,"Vegetable Oil","Oils & Fats",51,87,86,2.00,102.00,"Reorder Required",172.00
+28-146-2641,"Parmesan Cheese",Dairy,38,67,66,12.00,456.00,"Reorder Required",792.00
+11-581-9869,Carrot,"Fruits & Vegetables",51,60,98,1.50,76.50,"Reorder Required",147.00
+13-202-4809,Garlic,"Fruits & Vegetables",27,22,89,7.00,189.00,"Healthy Stock",623.00
+70-145-2550,Lemon,"Fruits & Vegetables",91,6,37,2.40,218.40,"Healthy Stock",88.80
+10-626-8536,"Coconut Sugar","Grains & Pulses",17,85,74,5.00,85.00,"Reorder Required",370.00
+42-879-9478,Anchovies,Seafood,81,22,20,10.00,810.00,"Healthy Stock",200.00
+82-380-5378,Cheese,Dairy,78,24,31,9.00,702.00,"Healthy Stock",279.00
+23-265-8144,Yogurt,Dairy,55,50,56,1.70,93.50,"Healthy Stock",95.20
+62-393-9939,"Cheddar Cheese",Dairy,60,9,89,9.00,540.00,"Healthy Stock",801.00
+90-343-9640,"Avocado Oil","Oils & Fats",53,89,100,10.00,530.00,"Reorder Required",1000.00
+36-899-5324,Orange,"Fruits & Vegetables",94,58,17,2.90,272.60,"Healthy Stock",49.30
+41-538-3129,"Digestive Biscuit",Bakery,77,79,65,4.00,308.00,"Reorder Required",260.00
+47-843-8207,Cauliflower,"Fruits & Vegetables",34,92,26,2.50,85.00,"Reorder Required",65.00
+94-071-2261,Pear,"Fruits & Vegetables",79,37,98,4.50,355.50,"Healthy Stock",441.00
+12-998-3882,"Egg (Turkey)",Dairy,76,54,76,2.50,190.00,"Healthy Stock",190.00
+36-127-4273,"Ricotta Cheese",Dairy,50,46,38,6.20,310.00,"Healthy Stock",235.60
+13-144-2169,Eggplant,"Fruits & Vegetables",25,62,11,3.00,75.00,"Reorder Required",33.00
+86-978-6666,"Whole Wheat Flour","Grains & Pulses",38,43,28,2.70,102.60,"Reorder Required",75.60
+40-681-9981,"Arabica Coffee",Beverages,45,77,2,20.00,900.00,"Reorder Required",40.00
+13-962-6263,"Sweet Potato","Fruits & Vegetables",49,1,28,2.00,98.00,"Healthy Stock",56.00
+10-002-6494,Mango,"Fruits & Vegetables",89,92,62,4.80,427.20,"Reorder Required",297.60
+29-741-8132,Kale,"Fruits & Vegetables",47,22,69,4.00,188.00,"Healthy Stock",276.00
+30-806-3823,"Jasmine Rice","Grains & Pulses",53,26,3,4.75,251.75,"Healthy Stock",14.25
+71-074-6292,"Sourdough Bread",Bakery,65,79,49,4.00,260.00,"Reorder Required",196.00
+95-738-4658,"Green Coffee",Beverages,90,68,74,12.00,1080.00,"Healthy Stock",888.00
+55-154-4728,"Arabica Coffee",Beverages,65,63,41,20.00,1300.00,"Healthy Stock",820.00
+46-255-3073,Tilapia,Seafood,30,42,8,7.00,210.00,"Reorder Required",56.00
+95-640-0293,"Arborio Rice","Grains & Pulses",34,32,22,4.50,153.00,"Healthy Stock",99.00
+45-250-4679,"Bread Flour","Grains & Pulses",54,78,81,1.50,81.00,"Reorder Required",121.50
+03-833-3577,Cucumber,"Fruits & Vegetables",67,14,25,1.80,120.60,"Healthy Stock",45.00
+08-961-3009,Cheese,Dairy,50,14,6,9.20,460.00,"Healthy Stock",55.20
+20-405-4865,Milk,Dairy,13,39,98,0.90,11.70,"Reorder Required",88.20
+49-377-9731,Lime,"Fruits & Vegetables",18,8,68,2.00,36.00,"Healthy Stock",136.00
+39-810-2042,"Rice Flour","Grains & Pulses",24,2,49,2.00,48.00,"Healthy Stock",98.00
+53-805-9523,"Sourdough Bread",Bakery,40,30,65,4.50,180.00,"Healthy Stock",292.50
+14-305-5348,Cheese,Dairy,53,63,2,9.00,477.00,"Reorder Required",18.00
+51-459-5630,"Sour Cream",Dairy,11,30,4,4.00,44.00,"Reorder Required",16.00
+88-183-5781,"Whole Wheat Bread",Bakery,17,63,3,3.50,59.50,"Reorder Required",10.50
+41-735-9837,"Robusta Coffee",Beverages,14,77,78,10.00,140.00,"Reorder Required",780.00
+88-977-0175,"Chocolate Biscuit",Bakery,100,1,26,5.00,500.00,"Healthy Stock",130.00
+66-327-2821,"Palm Oil","Oils & Fats",67,57,36,1.80,120.60,"Healthy Stock",64.80
+08-114-3922,Anchovies,Seafood,60,64,36,10.00,600.00,"Reorder Required",360.00
+95-090-2788,"Sesame Oil","Oils & Fats",45,7,58,6.50,292.50,"Healthy Stock",377.00
+26-690-3784,Lettuce,"Fruits & Vegetables",58,5,1,2.00,116.00,"Healthy Stock",2.00
+46-753-8430,"Feta Cheese",Dairy,98,77,7,7.00,686.00,"Healthy Stock",49.00
+15-905-7750,Apricot,"Fruits & Vegetables",42,61,52,5.00,210.00,"Reorder Required",260.00
+11-891-8213,"Peanut Oil","Oils & Fats",38,62,47,4.00,152.00,"Reorder Required",188.00
+82-811-7988,"Olive Oil","Oils & Fats",36,3,54,6.00,216.00,"Healthy Stock",324.00
+31-746-4951,"Whole Wheat Flour","Grains & Pulses",67,60,21,2.75,184.25,"Healthy Stock",57.75
+97-300-7511,"Egg (Duck)",Dairy,37,53,61,1.00,37.00,"Reorder Required",61.00
+88-304-2855,Pineapple,"Fruits & Vegetables",20,51,33,3.50,70.00,"Reorder Required",115.50
+53-008-2419,"Jasmine Rice","Grains & Pulses",62,36,96,4.75,294.50,"Healthy Stock",456.00
+76-340-4432,Cucumber,"Fruits & Vegetables",19,36,72,1.75,33.25,"Reorder Required",126.00
+26-010-9519,Trout,Seafood,29,72,96,12.00,348.00,"Reorder Required",1152.00
+08-940-8578,Onion,"Fruits & Vegetables",34,29,65,2.00,68.00,"Healthy Stock",130.00
+54-374-9986,Cream,Dairy,92,52,80,2.50,230.00,"Healthy Stock",200.00
+67-625-9704,Sardines,Seafood,33,18,92,6.00,198.00,"Healthy Stock",552.00
+56-635-6764,"Sourdough Bread",Bakery,12,59,62,4.50,54.00,"Reorder Required",279.00
+10-445-0741,Anchovies,Seafood,83,17,39,10.00,830.00,"Healthy Stock",390.00
+76-584-4790,"Peanut Oil","Oils & Fats",21,52,80,4.00,84.00,"Reorder Required",320.00
+57-437-1828,Plum,"Fruits & Vegetables",37,30,74,4.00,148.00,"Healthy Stock",296.00
+62-777-6010,"Sushi Rice","Grains & Pulses",77,20,37,4.25,327.25,"Healthy Stock",157.25
+06-955-3428,"Black Rice","Grains & Pulses",30,38,83,6.00,180.00,"Reorder Required",498.00
+04-758-0410,"Wild Rice","Grains & Pulses",26,21,47,10.00,260.00,"Healthy Stock",470.00
+06-655-5498,"Wild Rice","Grains & Pulses",72,82,52,9.75,702.00,"Reorder Required",507.00
+76-401-7083,Pomegranate,"Fruits & Vegetables",59,79,87,6.00,354.00,"Reorder Required",522.00
+30-429-2162,"Black Rice","Grains & Pulses",34,96,76,6.15,209.10,"Reorder Required",467.40
+49-730-0159,Cream,Dairy,82,3,82,2.40,196.80,"Healthy Stock",196.80
+31-745-6850,Cabbage,"Fruits & Vegetables",94,90,12,0.90,84.60,"Healthy Stock",10.80
+69-468-5468,"Sourdough Bread",Bakery,59,78,6,4.50,265.50,"Reorder Required",27.00
+68-636-4774,Carrot,"Fruits & Vegetables",18,50,77,1.45,26.10,"Reorder Required",111.65
+21-120-6238,"All-Purpose Flour","Grains & Pulses",55,33,14,1.75,96.25,"Healthy Stock",24.50
+92-995-8689,"Cheddar Cheese",Dairy,31,65,94,9.00,279.00,"Reorder Required",846.00
+15-045-8444,"Green Coffee",Beverages,27,12,93,12.00,324.00,"Healthy Stock",1116.00
+73-567-6194,"Whipped Cream",Dairy,76,81,85,4.00,304.00,"Reorder Required",340.00
+48-242-8445,Plum,"Fruits & Vegetables",40,3,5,4.00,160.00,"Healthy Stock",20.00
+33-507-9886,Pineapple,"Fruits & Vegetables",68,25,16,3.50,238.00,"Healthy Stock",56.00
+80-025-6757,Grapes,"Fruits & Vegetables",59,29,100,5.50,324.50,"Healthy Stock",550.00
+36-296-9609,"Sunflower Oil","Oils & Fats",24,35,14,2.50,60.00,"Reorder Required",35.00
+56-054-8664,Lemon,"Fruits & Vegetables",59,82,69,2.45,144.55,"Reorder Required",169.05
+64-478-4745,Lemon,"Fruits & Vegetables",63,81,94,2.50,157.50,"Reorder Required",235.00
+67-546-1568,"Peanut Oil","Oils & Fats",57,36,53,4.00,228.00,"Healthy Stock",212.00
+10-218-2680,"Egg (Turkey)",Dairy,39,93,57,2.50,97.50,"Reorder Required",142.50
+46-520-1819,"Short Grain Rice","Grains & Pulses",41,36,78,4.50,184.50,"Healthy Stock",351.00
+87-791-5803,Tuna,Seafood,25,44,96,18.00,450.00,"Reorder Required",1728.00
+71-436-5841,Cauliflower,"Fruits & Vegetables",87,91,94,2.50,217.50,"Reorder Required",235.00
+07-679-1199,Onion,"Fruits & Vegetables",20,65,61,2.00,40.00,"Reorder Required",122.00
+48-957-8596,Banana,"Fruits & Vegetables",95,25,91,53.82,5112.90,"Healthy Stock",4897.62
+20-325-1965,Coconut,"Fruits & Vegetables",56,75,13,5.00,280.00,"Reorder Required",65.00
+51-069-0489,"Bread Flour","Grains & Pulses",96,83,50,1.50,144.00,"Healthy Stock",75.00
+17-493-4579,"Almond Flour","Grains & Pulses",76,8,2,9.50,722.00,"Healthy Stock",19.00
+46-622-3434,"Jasmine Rice","Grains & Pulses",17,19,74,4.75,80.75,"Reorder Required",351.50
+05-899-1428,"Avocado Oil","Oils & Fats",14,75,10,10.00,140.00,"Reorder Required",100.00
+60-632-8752,"Chocolate Biscuit",Bakery,96,16,48,5.00,480.00,"Healthy Stock",240.00
+65-854-9364,"Black Rice","Grains & Pulses",30,34,96,6.30,189.00,"Reorder Required",604.80
+66-268-8345,"Greek Yogurt",Dairy,91,84,11,3.00,273.00,"Healthy Stock",33.00
+13-673-7016,Peach,"Fruits & Vegetables",47,67,57,4.00,188.00,"Reorder Required",228.00
+20-054-3716,"Chocolate Biscuit",Bakery,11,6,100,5.00,55.00,"Healthy Stock",500.00
+11-073-0189,Plum,"Fruits & Vegetables",95,50,76,4.00,380.00,"Healthy Stock",304.00
+40-793-7235,"Sour Cream",Dairy,92,67,51,4.00,368.00,"Healthy Stock",204.00
+56-894-3733,Yogurt,Dairy,85,83,13,1.75,148.75,"Healthy Stock",22.75
+83-117-7658,Asparagus,"Fruits & Vegetables",92,3,81,5.00,460.00,"Healthy Stock",405.00
+72-989-2512,Mushrooms,"Fruits & Vegetables",24,21,4,6.00,144.00,"Healthy Stock",24.00
+58-229-1358,Cream,Dairy,21,24,2,2.35,49.35,"Reorder Required",4.70
+28-275-5901,Anchovies,Seafood,64,1,92,10.00,640.00,"Healthy Stock",920.00
+85-806-8672,"Black Tea",Beverages,35,88,87,4.70,164.50,"Reorder Required",408.90
+65-718-0492,"Olive Oil","Oils & Fats",100,92,26,6.00,600.00,"Healthy Stock",156.00
+86-482-6451,"White Tea",Beverages,91,78,61,25.00,2275.00,"Healthy Stock",1525.00
+48-289-0604,"Vegetable Oil","Oils & Fats",18,72,71,2.00,36.00,"Reorder Required",142.00
+21-809-7115,"White Rice","Grains & Pulses",80,86,50,1.80,144.00,"Reorder Required",90.00
+84-269-9130,"Long Grain Rice","Grains & Pulses",11,10,80,1.50,16.50,"Healthy Stock",120.00
+54-758-4622,"Chocolate Biscuit",Bakery,99,3,79,5.00,495.00,"Healthy Stock",395.00
+65-867-4029,Peach,"Fruits & Vegetables",40,83,50,4.00,160.00,"Reorder Required",200.00
+24-310-9184,"Rye Bread",Bakery,69,65,91,3.00,207.00,"Healthy Stock",273.00
+53-930-2215,"Egg (Goose)",Dairy,60,43,32,2.50,150.00,"Healthy Stock",80.00
+94-598-3383,"Brown Rice","Grains & Pulses",79,38,67,2.50,197.50,"Healthy Stock",167.50
+83-625-3618,Asparagus,"Fruits & Vegetables",68,12,73,5.00,340.00,"Healthy Stock",365.00
+13-844-2178,Sardines,Seafood,44,67,48,6.00,264.00,"Reorder Required",288.00
+05-184-4175,"Black Coffee",Beverages,40,30,60,15.00,600.00,"Healthy Stock",900.00
+89-335-0155,"Brown Rice","Grains & Pulses",46,81,47,2.50,115.00,"Reorder Required",117.50
+38-417-4656,"White Sugar","Grains & Pulses",24,69,2,2.00,48.00,"Reorder Required",4.00
+74-305-1263,"Green Coffee",Beverages,29,91,48,12.00,348.00,"Reorder Required",576.00
+02-508-3777,"Egg (Quail)",Dairy,97,88,81,0.80,77.60,"Healthy Stock",64.80
+79-136-9840,"Herbal Tea",Beverages,77,45,75,30.00,2310.00,"Healthy Stock",2250.00
+35-299-0889,"Coconut Oil","Oils & Fats",33,78,79,5.00,165.00,"Reorder Required",395.00
+41-594-5069,"Egg (Duck)",Dairy,77,1,41,1.00,77.00,"Healthy Stock",41.00
+83-553-9523,Buttermilk,Dairy,28,90,70,2.45,68.60,"Reorder Required",171.50
+44-112-3331,Tuna,Seafood,85,17,96,18.00,1530.00,"Healthy Stock",1728.00
+93-198-5984,Mango,"Fruits & Vegetables",73,69,1,5.00,365.00,"Healthy Stock",5.00
+73-874-7534,Pomegranate,"Fruits & Vegetables",88,24,44,6.00,528.00,"Healthy Stock",264.00
+18-107-7886,"Evaporated Milk",Dairy,64,28,35,2.00,128.00,"Healthy Stock",70.00
+63-956-0739,"Robusta Coffee",Beverages,68,12,42,10.00,680.00,"Healthy Stock",420.00
+26-177-5690,Cucumber,"Fruits & Vegetables",85,33,50,1.80,153.00,"Healthy Stock",90.00
+47-749-3277,"Powdered Sugar","Grains & Pulses",46,20,30,2.50,115.00,"Healthy Stock",75.00
+57-763-5501,Cod,Seafood,72,29,10,8.00,576.00,"Healthy Stock",80.00
+90-230-9767,"Long Grain Rice","Grains & Pulses",67,88,32,1.50,100.50,"Reorder Required",48.00
+19-214-5762,Pear,"Fruits & Vegetables",41,52,75,4.50,184.50,"Reorder Required",337.50
+74-642-2435,Cauliflower,"Fruits & Vegetables",66,31,18,2.50,165.00,"Healthy Stock",45.00
+47-221-3391,"Black Coffee",Beverages,78,38,27,15.00,1170.00,"Healthy Stock",405.00
+87-104-0187,"Whole Wheat Flour","Grains & Pulses",86,100,78,2.75,236.50,"Reorder Required",214.50
+87-272-6544,"Egg (Goose)",Dairy,90,3,49,2.50,225.00,"Healthy Stock",122.50
+06-340-6856,"Wild Rice","Grains & Pulses",41,56,12,9.75,399.75,"Reorder Required",117.00
+80-020-8041,"Black Rice","Grains & Pulses",11,58,26,6.20,68.20,"Reorder Required",161.20
+48-461-3742,Kiwi,"Fruits & Vegetables",37,8,50,6.00,222.00,"Healthy Stock",300.00
+78-362-8578,Lemon,"Fruits & Vegetables",72,32,80,2.45,176.40,"Healthy Stock",196.00
+60-550-4771,Haddock,Seafood,75,80,87,9.00,675.00,"Reorder Required",783.00
+11-155-7826,"Arabica Coffee",Beverages,98,83,5,20.00,1960.00,"Healthy Stock",100.00
+42-907-6946,"Coconut Oil","Oils & Fats",90,75,6,5.00,450.00,"Healthy Stock",30.00
+99-048-8310,Tomato,"Fruits & Vegetables",32,49,73,2.50,80.00,"Reorder Required",182.50
+85-440-3667,"Gouda Cheese",Dairy,68,29,31,7.00,476.00,"Healthy Stock",217.00
+93-571-7294,"Sushi Rice","Grains & Pulses",78,94,7,4.35,339.30,"Reorder Required",30.45
+82-977-7752,Spinach,"Fruits & Vegetables",88,78,17,2.50,220.00,"Healthy Stock",42.50
+76-476-9996,"Chocolate Biscuit",Bakery,37,96,82,5.00,185.00,"Reorder Required",410.00
+50-679-2072,"Canola Oil","Oils & Fats",97,32,43,2.30,223.10,"Healthy Stock",98.90
+50-329-3145,Milk,Dairy,12,54,48,1.00,12.00,"Reorder Required",48.00
+52-392-5312,"All-Purpose Flour","Grains & Pulses",50,42,20,1.75,87.50,"Healthy Stock",35.00
+47-663-5703,"Basmati Rice","Grains & Pulses",15,49,40,4.50,67.50,"Reorder Required",180.00
+58-122-2282,"Black Tea",Beverages,59,20,17,5.00,295.00,"Healthy Stock",85.00
+84-151-2114,"Brown Rice","Grains & Pulses",39,57,54,2.50,97.50,"Reorder Required",135.00
+93-682-2069,Lime,"Fruits & Vegetables",76,39,15,2.00,152.00,"Healthy Stock",30.00
+48-789-9187,Peach,"Fruits & Vegetables",45,79,95,4.00,180.00,"Reorder Required",380.00
+85-806-0613,"Oatmeal Biscuit",Bakery,41,21,47,5.00,205.00,"Healthy Stock",235.00
+19-244-9890,"Herbal Tea",Beverages,61,22,98,30.00,1830.00,"Healthy Stock",2940.00
+60-285-3783,Mushrooms,"Fruits & Vegetables",51,62,95,6.00,306.00,"Reorder Required",570.00
+34-547-0827,"White Rice","Grains & Pulses",54,53,33,1.80,97.20,"Healthy Stock",59.40
+06-731-2162,Lemon,"Fruits & Vegetables",87,1,98,2.50,217.50,"Healthy Stock",245.00
+48-193-1199,"Canola Oil","Oils & Fats",46,51,92,2.30,105.80,"Reorder Required",211.60
+40-003-7322,"White Sugar","Grains & Pulses",13,32,79,2.00,26.00,"Reorder Required",158.00
+91-417-0366,Grapes,"Fruits & Vegetables",25,74,100,5.50,137.50,"Reorder Required",550.00
+24-571-1080,Kale,"Fruits & Vegetables",60,15,89,4.00,240.00,"Healthy Stock",356.00
+22-083-3347,"Long Grain Rice","Grains & Pulses",69,82,58,1.50,103.50,"Reorder Required",87.00
+09-101-1740,"Sushi Rice","Grains & Pulses",36,81,54,4.75,171.00,"Reorder Required",256.50
+17-274-6898,"Whole Wheat Bread",Bakery,36,53,92,3.50,126.00,"Reorder Required",322.00
+38-655-2312,Kale,"Fruits & Vegetables",79,74,87,4.00,316.00,"Healthy Stock",348.00
+60-327-4114,"Egg (Turkey)",Dairy,63,7,23,2.35,148.05,"Healthy Stock",54.05
+54-281-3746,"Green Beans","Fruits & Vegetables",26,70,52,2.00,52.00,"Reorder Required",104.00
+25-349-7974,Spinach,"Fruits & Vegetables",72,70,99,2.50,180.00,"Healthy Stock",247.50
+16-380-0753,Apricot,"Fruits & Vegetables",38,22,71,5.00,190.00,"Healthy Stock",355.00
+38-049-9319,"Oatmeal Biscuit",Bakery,82,6,53,5.00,410.00,"Healthy Stock",265.00
+50-329-3360,"Wild Rice","Grains & Pulses",19,77,66,10.00,190.00,"Reorder Required",660.00
+19-610-2236,"Whole Wheat Bread",Bakery,58,48,9,3.50,203.00,"Healthy Stock",31.50
+46-632-8420,"Whipped Cream",Dairy,98,24,4,4.10,401.80,"Healthy Stock",16.40
+14-836-2894,Apple,"Fruits & Vegetables",44,92,92,3.50,154.00,"Reorder Required",322.00
+08-196-2703,Peas,"Fruits & Vegetables",100,52,2,3.00,300.00,"Healthy Stock",6.00
+87-097-5691,"Robusta Coffee",Beverages,62,78,97,10.00,620.00,"Reorder Required",970.00
+04-453-5485,Tomato,"Fruits & Vegetables",84,20,58,2.50,210.00,"Healthy Stock",145.00
+82-678-8097,"Cottage Cheese",Dairy,68,82,58,4.80,326.40,"Reorder Required",278.40
+43-703-9939,Pineapple,"Fruits & Vegetables",55,91,35,3.50,192.50,"Reorder Required",122.50
+28-433-8533,"Multigrain Bread",Bakery,87,70,77,3.20,278.40,"Healthy Stock",246.40
+74-234-0628,"Almond Flour","Grains & Pulses",12,56,92,9.50,114.00,"Reorder Required",874.00
+02-888-9412,Cauliflower,"Fruits & Vegetables",95,66,69,2.48,235.60,"Healthy Stock",171.12
+80-658-6456,Mango,"Fruits & Vegetables",84,9,46,5.00,420.00,"Healthy Stock",230.00
+70-587-1204,"Black Rice","Grains & Pulses",68,68,97,6.00,408.00,"Reorder Required",582.00
+88-951-9038,"Black Coffee",Beverages,11,72,5,15.00,165.00,"Reorder Required",75.00
+45-317-9731,"Palm Oil","Oils & Fats",44,83,78,1.80,79.20,"Reorder Required",140.40
+63-874-9747,Orange,"Fruits & Vegetables",36,59,90,3.00,108.00,"Reorder Required",270.00
+44-546-5713,Peach,"Fruits & Vegetables",94,69,68,4.00,376.00,"Healthy Stock",272.00
+23-070-2433,"Powdered Sugar","Grains & Pulses",68,7,37,2.50,170.00,"Healthy Stock",92.50
+91-257-3672,Tilapia,Seafood,78,75,3,7.00,546.00,"Healthy Stock",21.00
+69-561-2496,Banana,"Fruits & Vegetables",82,29,62,15.31,1255.42,"Healthy Stock",949.22
+87-013-6488,"Sushi Rice","Grains & Pulses",22,10,53,4.25,93.50,"Healthy Stock",225.25
+31-969-4614,"Arabica Coffee",Beverages,62,89,6,20.00,1240.00,"Reorder Required",120.00
+96-209-1739,"Evaporated Milk",Dairy,70,81,75,2.00,140.00,"Reorder Required",150.00
+20-022-3173,"Bread Flour","Grains & Pulses",21,63,65,1.50,31.50,"Reorder Required",97.50
+44-552-3909,Pear,"Fruits & Vegetables",61,50,9,4.50,274.50,"Healthy Stock",40.50
+40-902-1995,Asparagus,"Fruits & Vegetables",46,88,20,4.80,220.80,"Reorder Required",96.00
+07-846-4804,"Jasmine Rice","Grains & Pulses",20,25,73,4.75,95.00,"Reorder Required",346.75
+17-504-3699,"Sweet Potato","Fruits & Vegetables",80,60,71,2.00,160.00,"Healthy Stock",142.00
+55-522-8242,"Whipped Cream",Dairy,29,36,40,4.00,116.00,"Reorder Required",160.00
+17-022-9721,Apple,"Fruits & Vegetables",43,63,99,3.50,150.50,"Reorder Required",346.50
+03-940-0630,"Sunflower Oil","Oils & Fats",23,43,75,2.50,57.50,"Reorder Required",187.50
+71-594-6552,"Long Grain Rice","Grains & Pulses",12,59,62,1.50,18.00,"Reorder Required",93.00
+20-225-3930,"White Tea",Beverages,99,87,10,25.00,2475.00,"Healthy Stock",250.00
+53-151-5726,Grapes,"Fruits & Vegetables",37,45,62,5.50,203.50,"Reorder Required",341.00
+77-777-4536,"Basmati Rice","Grains & Pulses",26,67,46,4.40,114.40,"Reorder Required",202.40
+07-834-3320,"Egg (Quail)",Dairy,94,60,78,0.80,75.20,"Healthy Stock",62.40
+51-761-6320,"Egg (Goose)",Dairy,43,78,85,2.50,107.50,"Reorder Required",212.50
+34-291-4939,"Digestive Biscuit",Bakery,34,49,27,4.00,136.00,"Reorder Required",108.00
+67-025-1245,Cabbage,"Fruits & Vegetables",88,46,55,1.00,88.00,"Healthy Stock",55.00
+63-936-0145,Plum,"Fruits & Vegetables",22,56,72,4.00,88.00,"Reorder Required",288.00
+27-495-1912,Potato,"Fruits & Vegetables",26,63,88,1.20,31.20,"Reorder Required",105.60
+47-554-5780,Haddock,Seafood,93,62,65,9.00,837.00,"Healthy Stock",585.00
+21-013-3508,Cabbage,"Fruits & Vegetables",12,95,49,1.00,12.00,"Reorder Required",49.00
+39-913-2999,"Evaporated Milk",Dairy,23,99,97,2.00,46.00,"Reorder Required",194.00
+82-395-5070,"Chocolate Biscuit",Bakery,75,81,17,5.00,375.00,"Reorder Required",85.00
+62-100-2245,"Sourdough Bread",Bakery,22,60,73,4.20,92.40,"Reorder Required",306.60
+09-712-3630,Grapes,"Fruits & Vegetables",87,62,2,5.50,478.50,"Healthy Stock",11.00
+25-010-9478,Eggplant,"Fruits & Vegetables",74,30,24,3.00,222.00,"Healthy Stock",72.00
+03-919-9890,Halibut,Seafood,47,29,70,20.00,940.00,"Healthy Stock",1400.00
+61-293-6327,Salmon,Seafood,98,67,49,15.00,1470.00,"Healthy Stock",735.00
+08-519-5579,Broccoli,"Fruits & Vegetables",35,4,76,4.00,140.00,"Healthy Stock",304.00
+00-366-9496,Grapes,"Fruits & Vegetables",30,66,28,5.50,165.00,"Reorder Required",154.00
+28-840-6096,Pomegranate,"Fruits & Vegetables",19,65,48,6.00,114.00,"Reorder Required",288.00
+04-542-3863,"Bread Flour","Grains & Pulses",34,46,45,1.50,51.00,"Reorder Required",67.50
+18-199-5799,"Cheddar Cheese",Dairy,40,81,40,9.00,360.00,"Reorder Required",360.00
+56-875-3717,"Brown Rice","Grains & Pulses",89,54,15,2.50,222.50,"Healthy Stock",37.50
+25-522-6043,"Gouda Cheese",Dairy,71,93,75,7.00,497.00,"Reorder Required",525.00
+27-459-0724,"Feta Cheese",Dairy,91,7,64,7.00,637.00,"Healthy Stock",448.00
+75-080-4909,"Corn Oil","Oils & Fats",20,55,15,2.50,50.00,"Reorder Required",37.50
+07-970-9352,"Bell Pepper","Fruits & Vegetables",96,33,72,4.45,427.20,"Healthy Stock",320.40
+26-134-9069,"Whipped Cream",Dairy,14,87,8,4.00,56.00,"Reorder Required",32.00
+08-396-2704,"White Sugar","Grains & Pulses",42,12,28,2.00,84.00,"Healthy Stock",56.00
+24-975-4231,"Green Beans","Fruits & Vegetables",31,61,28,2.10,65.10,"Reorder Required",58.80
+28-197-9246,"Powdered Sugar","Grains & Pulses",47,30,16,2.50,117.50,"Healthy Stock",40.00
+77-013-1553,"Canola Oil","Oils & Fats",79,31,66,2.30,181.70,"Healthy Stock",151.80
+83-716-2177,Halibut,Seafood,18,46,26,20.00,360.00,"Reorder Required",520.00
+55-164-7723,Halibut,Seafood,82,31,86,20.00,1640.00,"Healthy Stock",1720.00
+22-778-3553,"Cheddar Cheese",Dairy,36,77,49,9.00,324.00,"Reorder Required",441.00
+14-331-3739,"Avocado Oil","Oils & Fats",24,89,27,10.00,240.00,"Reorder Required",270.00
+47-578-4161,Anchovies,Seafood,88,56,81,10.00,880.00,"Healthy Stock",810.00
+59-857-6577,"Evaporated Milk",Dairy,23,100,77,2.00,46.00,"Reorder Required",154.00
+02-559-8196,Mango,"Fruits & Vegetables",61,14,49,5.20,317.20,"Healthy Stock",254.80
+13-900-9016,"Bell Pepper","Fruits & Vegetables",89,96,94,4.50,400.50,"Reorder Required",423.00
+15-144-9413,Strawberries,"Fruits & Vegetables",58,15,87,5.90,342.20,"Healthy Stock",513.30
+65-527-9488,Grapes,"Fruits & Vegetables",38,72,39,5.50,209.00,"Reorder Required",214.50
+74-818-3306,Spinach,"Fruits & Vegetables",45,70,98,2.45,110.25,"Reorder Required",240.10
+60-198-7050,"Green Tea",Beverages,26,59,54,8.00,208.00,"Reorder Required",432.00
+82-041-7211,"Swiss Cheese",Dairy,49,49,26,8.00,392.00,"Reorder Required",208.00
+17-002-4721,"Green Beans","Fruits & Vegetables",31,55,5,2.00,62.00,"Reorder Required",10.00
+74-404-0582,Cherry,"Fruits & Vegetables",57,82,59,8.00,456.00,"Reorder Required",472.00
+73-561-2867,"Sourdough Bread",Bakery,12,86,98,4.00,48.00,"Reorder Required",392.00
+45-194-4094,Plum,"Fruits & Vegetables",64,71,69,3.90,249.60,"Reorder Required",269.10
+92-362-3567,Tomato,"Fruits & Vegetables",11,10,60,2.50,27.50,"Healthy Stock",150.00
+96-961-2193,"Jasmine Rice","Grains & Pulses",46,39,11,4.75,218.50,"Healthy Stock",52.25
+92-652-3737,Zucchini,"Fruits & Vegetables",89,56,74,2.50,222.50,"Healthy Stock",185.00
+89-673-1543,"Digestive Biscuit",Bakery,72,78,1,4.00,288.00,"Reorder Required",4.00
+70-815-4015,"Butter Biscuit",Bakery,38,93,61,6.00,228.00,"Reorder Required",366.00
+90-737-0044,"Black Rice","Grains & Pulses",79,98,97,6.00,474.00,"Reorder Required",582.00
+67-473-7093,"Black Tea",Beverages,56,12,85,5.00,280.00,"Healthy Stock",425.00
+22-621-2774,Strawberries,"Fruits & Vegetables",54,26,16,6.00,324.00,"Healthy Stock",96.00
+15-240-6267,Eggplant,"Fruits & Vegetables",91,55,94,3.00,273.00,"Healthy Stock",282.00
+75-152-8731,Pear,"Fruits & Vegetables",82,65,69,4.45,364.90,"Healthy Stock",307.05
+40-913-9772,"Egg (Chicken)",Dairy,36,30,44,0.20,7.20,"Healthy Stock",8.80
+29-377-7040,"Short Grain Rice","Grains & Pulses",22,77,15,3.00,66.00,"Reorder Required",45.00
+72-780-6006,"Sunflower Oil","Oils & Fats",87,24,19,2.50,217.50,"Healthy Stock",47.50
+91-127-7489,Orange,"Fruits & Vegetables",44,8,52,2.95,129.80,"Healthy Stock",153.40
+17-647-0503,Cod,Seafood,96,12,8,8.00,768.00,"Healthy Stock",64.00
+91-848-0606,Onion,"Fruits & Vegetables",39,22,73,2.00,78.00,"Healthy Stock",146.00
+11-745-3025,Peach,"Fruits & Vegetables",15,27,21,4.00,60.00,"Reorder Required",84.00
+29-823-6004,Zucchini,"Fruits & Vegetables",52,79,87,2.50,130.00,"Reorder Required",217.50
+21-718-6746,Coconut,"Fruits & Vegetables",16,53,12,5.00,80.00,"Reorder Required",60.00
+86-692-2312,"Avocado Oil","Oils & Fats",30,48,52,10.00,300.00,"Reorder Required",520.00
+54-109-8062,"Sushi Rice","Grains & Pulses",75,69,100,4.50,337.50,"Healthy Stock",450.00
+74-943-9034,"White Bread",Bakery,30,91,34,2.50,75.00,"Reorder Required",85.00
+71-300-2191,Broccoli,"Fruits & Vegetables",79,72,6,4.00,316.00,"Healthy Stock",24.00
+65-145-9672,"Long Grain Rice","Grains & Pulses",71,10,49,1.50,106.50,"Healthy Stock",73.50
+93-966-7754,Pineapple,"Fruits & Vegetables",65,35,3,3.50,227.50,"Healthy Stock",10.50
+27-216-9671,"Sesame Oil","Oils & Fats",100,86,94,6.50,650.00,"Healthy Stock",611.00
+44-538-3366,Tuna,Seafood,58,77,96,18.00,1044.00,"Reorder Required",1728.00
+34-075-0371,Watermelon,"Fruits & Vegetables",75,10,68,3.00,225.00,"Healthy Stock",204.00
+24-972-6969,Cheese,Dairy,69,53,32,9.20,634.80,"Healthy Stock",294.40
+92-455-2959,"Robusta Coffee",Beverages,59,62,57,10.30,607.70,"Reorder Required",587.10
+58-182-6781,"Oatmeal Biscuit",Bakery,34,55,22,5.00,170.00,"Reorder Required",110.00
+42-134-9798,"Canola Oil","Oils & Fats",19,80,87,2.30,43.70,"Reorder Required",200.10
+18-278-2383,"Gouda Cheese",Dairy,97,77,13,7.00,679.00,"Healthy Stock",91.00
+03-597-9488,Buttermilk,Dairy,70,66,74,2.50,175.00,"Healthy Stock",185.00
+14-681-7035,"White Tea",Beverages,36,90,57,25.00,900.00,"Reorder Required",1425.00
+01-439-6231,"Sunflower Oil","Oils & Fats",88,100,17,2.50,220.00,"Reorder Required",42.50
+25-911-7736,Orange,"Fruits & Vegetables",75,48,25,3.00,225.00,"Healthy Stock",75.00
+36-918-2937,"Green Coffee",Beverages,62,89,18,12.00,744.00,"Reorder Required",216.00
+37-666-3902,Cauliflower,"Fruits & Vegetables",19,73,60,2.45,46.55,"Reorder Required",147.00
+27-757-4489,"Egg (Goose)",Dairy,35,78,68,2.50,87.50,"Reorder Required",170.00
+97-040-3822,"Swiss Cheese",Dairy,50,99,73,8.00,400.00,"Reorder Required",584.00
+98-445-7372,Cod,Seafood,65,79,52,8.00,520.00,"Reorder Required",416.00
+92-152-5820,"Black Tea",Beverages,18,36,53,5.30,95.40,"Reorder Required",280.90
+24-986-5091,"Vanilla Biscuit",Bakery,89,22,23,5.50,489.50,"Healthy Stock",126.50
+22-849-2551,Mushrooms,"Fruits & Vegetables",34,1,79,6.20,210.80,"Healthy Stock",489.80
+15-169-8058,"Bread Flour","Grains & Pulses",87,97,28,1.50,130.50,"Reorder Required",42.00
+78-953-2073,"Canola Oil","Oils & Fats",53,20,75,2.30,121.90,"Healthy Stock",172.50
+10-255-8579,"Basmati Rice","Grains & Pulses",56,53,77,4.50,252.00,"Healthy Stock",346.50
+82-948-2298,Kiwi,"Fruits & Vegetables",38,91,94,5.70,216.60,"Reorder Required",535.80
+60-747-8704,Papaya,"Fruits & Vegetables",97,97,71,4.50,436.50,"Reorder Required",319.50
+40-462-2952,Trout,Seafood,91,68,80,11.50,1046.50,"Healthy Stock",920.00
+98-235-2711,Asparagus,"Fruits & Vegetables",22,40,7,5.00,110.00,"Reorder Required",35.00
+83-108-1174,"White Bread",Bakery,78,68,68,2.50,195.00,"Healthy Stock",170.00
+28-505-8317,Watermelon,"Fruits & Vegetables",23,85,94,3.00,69.00,"Reorder Required",282.00
+31-803-5001,Asparagus,"Fruits & Vegetables",78,16,37,4.70,366.60,"Healthy Stock",173.90
+17-236-0566,"Sweet Potato","Fruits & Vegetables",95,87,13,2.00,190.00,"Healthy Stock",26.00
+76-090-4411,"Ricotta Cheese",Dairy,49,94,18,6.00,294.00,"Reorder Required",108.00
+43-910-2342,Plum,"Fruits & Vegetables",26,69,90,4.00,104.00,"Reorder Required",360.00
+05-425-0746,Onion,"Fruits & Vegetables",50,68,90,2.00,100.00,"Reorder Required",180.00
+93-815-0565,"Sesame Oil","Oils & Fats",50,36,96,6.50,325.00,"Healthy Stock",624.00
+67-270-7464,"Jasmine Rice","Grains & Pulses",91,73,77,4.75,432.25,"Healthy Stock",365.75
+61-827-4098,Cod,Seafood,23,42,87,8.00,184.00,"Reorder Required",696.00
+92-291-7089,Cheese,Dairy,76,15,99,9.50,722.00,"Healthy Stock",940.50
+76-070-1411,"Evaporated Milk",Dairy,15,75,78,1.90,28.50,"Reorder Required",148.20
+36-330-5036,Salmon,Seafood,79,28,4,15.00,1185.00,"Healthy Stock",60.00
+02-034-6209,"Sour Cream",Dairy,22,43,3,4.10,90.20,"Reorder Required",12.30
+49-891-4927,"Cottage Cheese",Dairy,37,5,1,5.00,185.00,"Healthy Stock",5.00
+94-020-6982,Tuna,Seafood,25,75,27,18.00,450.00,"Reorder Required",486.00
+88-807-8431,Haddock,Seafood,11,87,43,9.00,99.00,"Reorder Required",387.00
+19-672-8982,Butter,Dairy,21,87,67,3.10,65.10,"Reorder Required",207.70
+07-389-5740,"Egg (Quail)",Dairy,34,94,69,0.80,27.20,"Reorder Required",55.20
+39-629-5554,"Egg (Goose)",Dairy,44,90,17,2.50,110.00,"Reorder Required",42.50
+27-635-8394,Orange,"Fruits & Vegetables",88,37,61,2.90,255.20,"Healthy Stock",176.90
+14-844-4138,"Black Coffee",Beverages,61,43,29,15.00,915.00,"Healthy Stock",435.00
+65-464-5070,"Heavy Cream",Dairy,12,60,73,4.00,48.00,"Reorder Required",292.00
+46-911-1159,Onion,"Fruits & Vegetables",98,40,100,2.00,196.00,"Healthy Stock",200.00
+35-617-3857,"Arabica Coffee",Beverages,46,31,89,20.00,920.00,"Healthy Stock",1780.00
+41-237-5498,Cheese,Dairy,88,53,44,9.00,792.00,"Healthy Stock",396.00
+86-672-4191,"Egg (Goose)",Dairy,88,22,61,2.50,220.00,"Healthy Stock",152.50
+10-555-5971,"Sourdough Bread",Bakery,94,56,80,4.00,376.00,"Healthy Stock",320.00
+45-050-4720,"Black Rice","Grains & Pulses",18,78,43,6.00,108.00,"Reorder Required",258.00
+73-997-6251,"Bell Pepper","Fruits & Vegetables",94,18,84,4.50,423.00,"Healthy Stock",378.00
+53-446-8243,Orange,"Fruits & Vegetables",41,94,4,3.00,123.00,"Reorder Required",12.00
+12-798-9401,Cream,Dairy,18,14,77,2.50,45.00,"Healthy Stock",192.50
+93-014-4256,"Green Beans","Fruits & Vegetables",19,92,41,2.00,38.00,"Reorder Required",82.00
+60-911-3745,"Black Rice","Grains & Pulses",98,41,98,6.35,622.30,"Healthy Stock",622.30
+53-146-9979,"Powdered Sugar","Grains & Pulses",21,15,27,2.50,52.50,"Healthy Stock",67.50
+65-780-5622,"Butter Biscuit",Bakery,74,81,41,6.00,444.00,"Reorder Required",246.00
+29-896-7926,"White Rice","Grains & Pulses",20,20,56,1.80,36.00,"Reorder Required",100.80
+67-027-7269,Mushrooms,"Fruits & Vegetables",35,19,30,6.50,227.50,"Healthy Stock",195.00
+25-353-2067,Papaya,"Fruits & Vegetables",81,16,69,4.30,348.30,"Healthy Stock",296.70
+72-341-1154,"Heavy Cream",Dairy,85,66,85,4.20,357.00,"Healthy Stock",357.00
+16-187-5729,"Black Tea",Beverages,45,58,84,5.00,225.00,"Reorder Required",420.00
+49-311-3063,Kiwi,"Fruits & Vegetables",47,75,53,6.00,282.00,"Reorder Required",318.00
+98-652-9569,"Butter Biscuit",Bakery,12,7,23,6.00,72.00,"Healthy Stock",138.00
+78-689-8958,"White Tea",Beverages,20,43,43,25.00,500.00,"Reorder Required",1075.00
+66-378-7532,Blueberries,"Fruits & Vegetables",87,51,67,10.00,870.00,"Healthy Stock",670.00
+14-115-8371,"Chocolate Biscuit",Bakery,23,76,70,5.00,115.00,"Reorder Required",350.00
+76-540-6407,Orange,"Fruits & Vegetables",92,54,73,3.10,285.20,"Healthy Stock",226.30
+81-573-0943,"Egg (Chicken)",Dairy,22,58,2,0.20,4.40,"Reorder Required",0.40
+68-732-5919,"Jasmine Rice","Grains & Pulses",26,83,24,4.75,123.50,"Reorder Required",114.00
+68-734-1585,"Greek Yogurt","Fruits & Vegetables",62,44,11,51.17,3172.54,"Healthy Stock",562.87
+93-342-8794,"Bread Flour","Grains & Pulses",84,91,86,1.50,126.00,"Reorder Required",129.00
+42-175-1648,Pomegranate,"Fruits & Vegetables",81,87,15,6.00,486.00,"Reorder Required",90.00
+46-083-7058,Haddock,Seafood,61,91,40,9.00,549.00,"Reorder Required",360.00
+66-716-8221,"Cheddar Cheese",Dairy,70,96,35,9.00,630.00,"Reorder Required",315.00
+12-714-5135,"Ricotta Cheese",Dairy,49,28,74,6.00,294.00,"Healthy Stock",444.00
+35-031-1497,"Green Coffee",Beverages,20,68,20,12.00,240.00,"Reorder Required",240.00
+54-708-7327,"Jasmine Rice","Grains & Pulses",50,14,99,4.75,237.50,"Healthy Stock",470.25
+63-897-8088,Zucchini,"Fruits & Vegetables",63,56,33,2.50,157.50,"Healthy Stock",82.50
+79-494-2472,"Green Beans","Fruits & Vegetables",42,48,18,2.00,84.00,"Reorder Required",36.00
+15-679-3935,Grapes,"Fruits & Vegetables",22,69,87,5.50,121.00,"Reorder Required",478.50
+31-608-1445,Papaya,"Fruits & Vegetables",84,28,29,4.40,369.60,"Healthy Stock",127.60
+70-206-4860,"Egg (Quail)",Dairy,93,68,71,0.80,74.40,"Healthy Stock",56.80
+30-832-5429,"Multigrain Bread",Bakery,46,43,46,3.50,161.00,"Healthy Stock",161.00
+01-173-0029,Blueberries,"Fruits & Vegetables",42,4,53,10.00,420.00,"Healthy Stock",530.00
+65-235-7676,"Whole Wheat Bread",Bakery,91,71,17,3.50,318.50,"Healthy Stock",59.50
+79-400-6216,"Mozzarella Cheese",Dairy,16,56,13,7.20,115.20,"Reorder Required",93.60
+35-836-6718,"Ricotta Cheese",Dairy,91,14,99,6.00,546.00,"Healthy Stock",594.00
+08-573-9997,Pomegranate,"Fruits & Vegetables",26,1,9,6.00,156.00,"Healthy Stock",54.00
+66-854-5736,Kiwi,"Fruits & Vegetables",63,57,11,5.80,365.40,"Healthy Stock",63.80
+85-835-3445,"Egg (Goose)",Dairy,50,93,37,2.45,122.50,"Reorder Required",90.65
+10-768-2443,"Multigrain Bread",Bakery,93,55,95,3.25,302.25,"Healthy Stock",308.75
+19-112-1616,Lettuce,"Fruits & Vegetables",88,56,72,2.00,176.00,"Healthy Stock",144.00
+89-388-3239,Grapes,"Fruits & Vegetables",54,88,43,5.50,297.00,"Reorder Required",236.50
+22-760-4605,Yogurt,Dairy,86,20,67,1.75,150.50,"Healthy Stock",117.25
+38-664-2155,Cauliflower,"Fruits & Vegetables",48,27,73,2.55,122.40,"Healthy Stock",186.15
+89-713-6071,"Sesame Oil","Oils & Fats",89,66,28,6.50,578.50,"Healthy Stock",182.00
+56-191-6497,"Bread Flour","Grains & Pulses",97,41,68,1.50,145.50,"Healthy Stock",102.00
+27-389-3529,Haddock,Seafood,84,8,54,9.00,756.00,"Healthy Stock",486.00
+11-604-6002,"Canola Oil","Oils & Fats",69,17,27,2.30,158.70,"Healthy Stock",62.10
+20-448-2972,Asparagus,"Fruits & Vegetables",80,6,92,5.00,400.00,"Healthy Stock",460.00
+77-959-1018,Lettuce,"Fruits & Vegetables",22,22,65,2.00,44.00,"Reorder Required",130.00
+69-895-3397,Cucumber,"Fruits & Vegetables",28,5,9,1.80,50.40,"Healthy Stock",16.20
+32-933-0329,Blueberries,"Fruits & Vegetables",23,38,54,10.00,230.00,"Reorder Required",540.00
+33-440-2588,"Bell Pepper","Fruits & Vegetables",26,12,43,4.40,114.40,"Healthy Stock",189.20
+02-085-7218,"Cheddar Cheese",Dairy,85,28,32,8.90,756.50,"Healthy Stock",284.80
+43-193-9915,"Mozzarella Cheese",Dairy,55,58,6,7.20,396.00,"Reorder Required",43.20
+62-998-7250,"Evaporated Milk",Dairy,72,3,10,2.00,144.00,"Healthy Stock",20.00
+70-871-4536,"Swiss Cheese",Dairy,29,4,17,8.00,232.00,"Healthy Stock",136.00
+38-822-8005,Cucumber,"Fruits & Vegetables",47,20,65,1.75,82.25,"Healthy Stock",113.75
+38-390-2115,Potato,"Fruits & Vegetables",42,69,54,1.20,50.40,"Reorder Required",64.80
+28-968-4195,Eggplant,"Fruits & Vegetables",97,52,80,3.00,291.00,"Healthy Stock",240.00
+09-286-8107,"Greek Yogurt",Dairy,90,62,54,3.00,270.00,"Healthy Stock",162.00
+00-405-7428,Apple,"Fruits & Vegetables",81,74,45,3.50,283.50,"Healthy Stock",157.50
+43-893-5408,"Short Grain Rice","Grains & Pulses",60,90,85,3.00,180.00,"Reorder Required",255.00
+52-481-5224,Kiwi,"Fruits & Vegetables",45,24,61,6.00,270.00,"Healthy Stock",366.00
+34-131-8805,Yogurt,Dairy,92,92,28,1.75,161.00,"Reorder Required",49.00
+36-840-2728,Mackerel,Seafood,76,21,3,7.50,570.00,"Healthy Stock",22.50
+64-418-8356,"Sunflower Oil","Oils & Fats",80,24,60,2.50,200.00,"Healthy Stock",150.00
+51-462-0747,Lime,"Fruits & Vegetables",21,30,32,2.00,42.00,"Reorder Required",64.00
+74-711-7160,"Sushi Rice","Grains & Pulses",84,69,77,4.50,378.00,"Healthy Stock",346.50
+44-637-5512,Watermelon,"Fruits & Vegetables",58,12,99,3.00,174.00,"Healthy Stock",297.00
+27-881-1177,"Green Tea",Beverages,34,47,99,8.00,272.00,"Reorder Required",792.00
+72-404-5581,"Almond Flour","Grains & Pulses",54,17,90,9.50,513.00,"Healthy Stock",855.00
+12-046-2988,"Corn Oil","Oils & Fats",17,63,66,2.50,42.50,"Reorder Required",165.00
+21-816-1004,"Black Coffee",Beverages,84,13,88,15.00,1260.00,"Healthy Stock",1320.00
+81-605-6246,Sardines,Seafood,73,31,49,6.00,438.00,"Healthy Stock",294.00
+11-815-7923,"Parmesan Cheese",Dairy,96,9,57,11.80,1132.80,"Healthy Stock",672.60
+26-456-1992,Tilapia,Seafood,56,59,87,7.00,392.00,"Reorder Required",609.00
+63-168-6018,Cucumber,"Fruits & Vegetables",60,63,81,1.80,108.00,"Reorder Required",145.80
+70-854-6891,"Sourdough Bread",Bakery,41,84,90,4.00,164.00,"Reorder Required",360.00
+87-762-1317,"Mozzarella Cheese",Dairy,45,63,75,7.00,315.00,"Reorder Required",525.00
+80-374-5711,"Herbal Tea",Beverages,48,77,81,31.00,1488.00,"Reorder Required",2511.00
+60-456-8169,"Cheddar Cheese",Dairy,21,28,72,9.00,189.00,"Reorder Required",648.00
+99-543-5039,Lemon,"Fruits & Vegetables",65,88,20,2.50,162.50,"Reorder Required",50.00
+72-810-9753,"Sesame Oil","Oils & Fats",14,84,15,6.50,91.00,"Reorder Required",97.50
+78-956-4737,"Sushi Rice","Grains & Pulses",47,1,60,4.20,197.40,"Healthy Stock",252.00
+46-415-8633,Apple,"Fruits & Vegetables",71,36,45,3.50,248.50,"Healthy Stock",157.50
+06-611-5454,"Peanut Oil","Oils & Fats",64,21,13,4.00,256.00,"Healthy Stock",52.00
+27-783-5470,"Feta Cheese",Dairy,74,65,5,7.00,518.00,"Healthy Stock",35.00
+55-697-5242,"Ricotta Cheese",Dairy,51,53,88,6.00,306.00,"Reorder Required",528.00
+15-082-9124,Apricot,"Fruits & Vegetables",89,35,19,5.00,445.00,"Healthy Stock",95.00
+06-996-3221,"Evaporated Milk",Dairy,11,9,65,2.00,22.00,"Healthy Stock",130.00
+45-634-0679,Haddock,Seafood,98,100,34,9.00,882.00,"Reorder Required",306.00
+15-796-3130,"Rye Bread",Bakery,50,58,78,3.00,150.00,"Reorder Required",234.00
+51-000-8113,"Green Tea",Beverages,24,27,35,8.00,192.00,"Reorder Required",280.00
+20-387-7746,"Powdered Sugar","Grains & Pulses",64,10,100,2.50,160.00,"Healthy Stock",250.00
+82-931-7126,Asparagus,"Fruits & Vegetables",34,95,18,5.00,170.00,"Reorder Required",90.00
+55-631-7937,"Greek Yogurt",Dairy,26,54,90,3.00,78.00,"Reorder Required",270.00
+11-338-4598,Potato,"Fruits & Vegetables",72,58,69,1.20,86.40,"Healthy Stock",82.80
+52-402-9245,Broccoli,"Fruits & Vegetables",89,40,64,4.00,356.00,"Healthy Stock",256.00
+09-536-2626,"Olive Oil","Oils & Fats",83,52,32,6.00,498.00,"Healthy Stock",192.00
+48-427-0551,"Arabica Coffee",Beverages,13,55,77,20.00,260.00,"Reorder Required",1540.00
+06-706-6490,"Green Tea",Beverages,15,66,85,8.00,120.00,"Reorder Required",680.00
+29-135-0791,"Jasmine Rice","Grains & Pulses",56,48,82,4.75,266.00,"Healthy Stock",389.50
+89-624-7462,Asparagus,"Fruits & Vegetables",18,3,39,5.00,90.00,"Healthy Stock",195.00
+82-231-4245,"Wild Rice","Grains & Pulses",32,91,80,10.00,320.00,"Reorder Required",800.00
+42-220-9305,"White Sugar","Grains & Pulses",91,98,6,2.00,182.00,"Reorder Required",12.00
+02-920-4829,"White Bread",Bakery,92,87,84,2.50,230.00,"Healthy Stock",210.00
+61-801-8665,"Robusta Coffee",Beverages,42,88,17,10.50,441.00,"Reorder Required",178.50
+01-144-5960,Trout,Seafood,75,25,99,12.00,900.00,"Healthy Stock",1188.00
+98-575-4736,Cucumber,"Fruits & Vegetables",76,11,15,1.80,136.80,"Healthy Stock",27.00
+30-996-2526,"Green Beans","Fruits & Vegetables",86,90,39,2.10,180.60,"Reorder Required",81.90
+45-380-4627,Cabbage,"Fruits & Vegetables",90,1,40,0.90,81.00,"Healthy Stock",36.00
+47-548-6500,Onion,"Fruits & Vegetables",20,93,37,2.00,40.00,"Reorder Required",74.00
+30-591-7275,"Brown Rice","Grains & Pulses",17,88,41,2.50,42.50,"Reorder Required",102.50
+38-296-6634,Peas,"Fruits & Vegetables",49,46,8,3.00,147.00,"Healthy Stock",24.00
+98-858-6323,"Swiss Cheese",Dairy,20,17,71,8.00,160.00,"Healthy Stock",568.00
+69-743-0161,"Bread Flour","Grains & Pulses",99,54,71,1.50,148.50,"Healthy Stock",106.50
+71-067-3278,Anchovies,Seafood,51,35,95,10.00,510.00,"Healthy Stock",950.00
+24-143-4957,"Canola Oil","Oils & Fats",25,97,63,2.30,57.50,"Reorder Required",144.90
+31-387-5020,"Parmesan Cheese",Dairy,63,41,98,11.90,749.70,"Healthy Stock",1166.20
+33-378-1365,"Egg (Goose)",Dairy,50,66,1,2.50,125.00,"Reorder Required",2.50
+41-729-5410,Sardines,Seafood,91,59,49,6.00,546.00,"Healthy Stock",294.00
+33-335-9140,"Olive Oil","Oils & Fats",28,17,28,6.00,168.00,"Healthy Stock",168.00
+40-021-2400,Zucchini,"Fruits & Vegetables",29,18,86,2.50,72.50,"Healthy Stock",215.00
+81-268-5905,Mackerel,Seafood,89,26,36,7.50,667.50,"Healthy Stock",270.00
+38-617-7226,Mushrooms,"Fruits & Vegetables",65,42,62,6.30,409.50,"Healthy Stock",390.60
+54-822-9009,Cauliflower,"Grains & Pulses",40,38,32,3.20,128.00,"Healthy Stock",102.40
+02-655-3240,"Rice Flour","Grains & Pulses",99,44,52,2.00,198.00,"Healthy Stock",104.00
+01-839-6534,"Short Grain Rice","Grains & Pulses",56,28,76,3.00,168.00,"Healthy Stock",228.00
+98-499-2220,"Parmesan Cheese",Dairy,37,3,45,12.00,444.00,"Healthy Stock",540.00
+69-171-1305,"Brown Rice","Grains & Pulses",31,29,57,2.50,77.50,"Healthy Stock",142.50
+57-394-4703,"White Tea",Beverages,81,83,36,25.00,2025.00,"Reorder Required",900.00
+58-946-5152,"Bread Flour","Grains & Pulses",11,77,7,1.50,16.50,"Reorder Required",10.50
+74-587-2065,Pear,"Fruits & Vegetables",29,20,85,4.50,130.50,"Healthy Stock",382.50
+69-287-9113,Zucchini,"Fruits & Vegetables",59,91,24,2.50,147.50,"Reorder Required",60.00
+03-441-4252,Yogurt,Dairy,12,83,93,1.75,21.00,"Reorder Required",162.75
+29-344-3658,Lime,"Fruits & Vegetables",75,56,57,1.90,142.50,"Healthy Stock",108.30
+12-342-4482,Trout,Seafood,67,83,90,11.60,777.20,"Reorder Required",1044.00
+99-894-4351,"White Sugar","Grains & Pulses",29,54,54,2.00,58.00,"Reorder Required",108.00
+34-709-9237,Carrot,"Fruits & Vegetables",61,81,99,1.50,91.50,"Reorder Required",148.50
+05-498-7751,Cauliflower,"Fruits & Vegetables",52,22,37,2.50,130.00,"Healthy Stock",92.50
+32-270-1385,"Greek Yogurt","Fruits & Vegetables",28,38,23,42.58,1192.24,"Reorder Required",979.34
+67-710-5120,"Bread Flour","Grains & Pulses",84,92,18,1.50,126.00,"Reorder Required",27.00
+37-709-3532,Mushrooms,"Fruits & Vegetables",79,45,39,6.00,474.00,"Healthy Stock",234.00
+60-311-5701,"Sesame Oil","Oils & Fats",39,78,97,6.50,253.50,"Reorder Required",630.50
+97-093-4278,Buttermilk,Dairy,69,98,89,2.55,175.95,"Reorder Required",226.95
+41-131-3841,"Almond Flour","Grains & Pulses",77,19,31,9.50,731.50,"Healthy Stock",294.50
+40-630-1431,Cherry,"Fruits & Vegetables",29,66,21,8.00,232.00,"Reorder Required",168.00
+64-493-5270,"Palm Oil","Oils & Fats",69,59,29,1.80,124.20,"Healthy Stock",52.20
+07-219-8017,"Palm Oil","Oils & Fats",40,2,58,1.80,72.00,"Healthy Stock",104.40
+73-751-4393,Onion,"Fruits & Vegetables",68,10,29,2.00,136.00,"Healthy Stock",58.00
+50-942-2409,Peas,"Fruits & Vegetables",75,91,68,3.00,225.00,"Reorder Required",204.00
+01-018-6418,"Chocolate Biscuit",Bakery,68,29,100,5.00,340.00,"Healthy Stock",500.00
+59-725-4038,"Arabica Coffee",Beverages,78,34,39,20.50,1599.00,"Healthy Stock",799.50
+40-997-2786,Yogurt,Dairy,76,98,41,1.75,133.00,"Reorder Required",71.75
+11-766-8738,Watermelon,"Fruits & Vegetables",27,64,43,3.00,81.00,"Reorder Required",129.00
+40-860-4532,"Arabica Coffee",Beverages,74,72,18,21.00,1554.00,"Healthy Stock",378.00
+55-936-2406,"Bread Flour","Grains & Pulses",27,93,88,1.50,40.50,"Reorder Required",132.00
+62-816-8794,"Rice Flour","Grains & Pulses",15,76,81,2.00,30.00,"Reorder Required",162.00
+04-104-6993,Buttermilk,Dairy,60,1,42,2.45,147.00,"Healthy Stock",102.90
+35-835-5591,Tilapia,Seafood,95,63,73,7.00,665.00,"Healthy Stock",511.00
+83-704-6367,"Arabica Coffee",Beverages,21,87,12,21.00,441.00,"Reorder Required",252.00
+60-771-0879,Blueberries,"Fruits & Vegetables",89,15,22,10.00,890.00,"Healthy Stock",220.00
+27-269-5260,Pineapple,"Fruits & Vegetables",14,81,65,3.50,49.00,"Reorder Required",227.50
+20-031-0532,Mango,"Fruits & Vegetables",32,63,92,4.90,156.80,"Reorder Required",450.80
+19-323-0506,Halibut,Seafood,68,43,96,20.00,1360.00,"Healthy Stock",1920.00
+46-452-9419,"Egg (Duck)",Dairy,43,10,15,1.00,43.00,"Healthy Stock",15.00
+90-492-0564,Pomegranate,"Fruits & Vegetables",92,96,56,6.00,552.00,"Reorder Required",336.00
+17-395-1121,Plum,"Fruits & Vegetables",85,16,74,3.85,327.25,"Healthy Stock",284.90
+83-400-9746,"Mozzarella Cheese",Dairy,24,1,65,7.00,168.00,"Healthy Stock",455.00
+19-854-3663,Watermelon,"Fruits & Vegetables",13,88,11,3.00,39.00,"Reorder Required",33.00
+57-167-0669,Haddock,Seafood,19,99,78,9.00,171.00,"Reorder Required",702.00
+76-954-1442,"Arabica Coffee",Beverages,97,77,99,20.00,1940.00,"Healthy Stock",1980.00
+83-763-5038,Buttermilk,Dairy,52,64,54,2.40,124.80,"Reorder Required",129.60
+80-375-9075,"Swiss Cheese",Dairy,96,34,57,8.00,768.00,"Healthy Stock",456.00
+87-391-9658,"Corn Oil","Oils & Fats",26,100,13,2.50,65.00,"Reorder Required",32.50
+67-725-6830,"Brown Rice","Grains & Pulses",51,47,6,2.50,127.50,"Healthy Stock",15.00
+12-093-9863,"Arborio Rice","Grains & Pulses",51,19,96,4.50,229.50,"Healthy Stock",432.00
+44-408-7594,Eggplant,"Fruits & Vegetables",39,21,5,3.00,117.00,"Healthy Stock",15.00
+04-637-8815,Apricot,"Fruits & Vegetables",90,91,62,5.00,450.00,"Reorder Required",310.00
+88-746-9468,Onion,"Fruits & Vegetables",35,92,74,2.00,70.00,"Reorder Required",148.00
+32-987-5559,"Green Tea",Beverages,39,88,100,8.00,312.00,"Reorder Required",800.00
+02-484-0206,"Short Grain Rice","Grains & Pulses",64,97,91,3.00,192.00,"Reorder Required",273.00
+80-441-7249,"Wild Rice","Grains & Pulses",98,30,39,10.00,980.00,"Healthy Stock",390.00
+41-316-8427,"Arborio Rice","Grains & Pulses",95,93,16,4.50,427.50,"Healthy Stock",72.00
+56-668-5370,"Vegetable Oil","Oils & Fats",70,96,21,2.00,140.00,"Reorder Required",42.00
+45-172-7012,Papaya,"Fruits & Vegetables",20,91,12,4.50,90.00,"Reorder Required",54.00
+93-015-0811,Pineapple,"Fruits & Vegetables",18,7,58,3.50,63.00,"Healthy Stock",203.00
+52-029-2382,"Coconut Oil","Oils & Fats",54,86,69,5.00,270.00,"Reorder Required",345.00
+28-044-4102,Papaya,"Fruits & Vegetables",19,28,83,4.50,85.50,"Reorder Required",373.50
+34-861-4446,"Ricotta Cheese",Dairy,66,40,8,6.00,396.00,"Healthy Stock",48.00
+80-334-0215,Grapes,"Fruits & Vegetables",88,27,92,5.50,484.00,"Healthy Stock",506.00
+94-697-2396,"Sourdough Bread",Bakery,71,97,44,4.00,284.00,"Reorder Required",176.00
+76-027-4850,Onion,"Fruits & Vegetables",39,37,48,2.00,78.00,"Healthy Stock",96.00
+15-907-3681,Plum,"Fruits & Vegetables",20,42,21,3.85,77.00,"Reorder Required",80.85
+00-641-8691,"Black Coffee",Beverages,33,22,94,15.00,495.00,"Healthy Stock",1410.00
+15-762-1058,Lime,"Fruits & Vegetables",29,83,91,2.00,58.00,"Reorder Required",182.00
+57-779-4955,"Black Rice","Grains & Pulses",92,48,22,6.25,575.00,"Healthy Stock",137.50
+68-436-1268,"Egg (Duck)",Dairy,70,92,74,1.00,70.00,"Reorder Required",74.00
+26-000-1012,"Parmesan Cheese",Dairy,65,54,29,12.00,780.00,"Healthy Stock",348.00
+75-094-1179,"Rye Bread",Bakery,26,79,31,3.00,78.00,"Reorder Required",93.00
+11-032-9778,Peas,"Fruits & Vegetables",99,1,4,3.00,297.00,"Healthy Stock",12.00
+24-478-8277,"Multigrain Bread",Bakery,47,26,40,3.25,152.75,"Healthy Stock",130.00
+12-239-9399,Potato,"Fruits & Vegetables",28,40,27,1.20,33.60,"Reorder Required",32.40
+83-321-7887,"Egg (Duck)",Dairy,44,75,72,1.00,44.00,"Reorder Required",72.00
+80-371-3695,"Cottage Cheese",Dairy,89,42,76,5.00,445.00,"Healthy Stock",380.00
+49-199-6836,Tomato,"Fruits & Vegetables",100,64,62,2.50,250.00,"Healthy Stock",155.00
+85-510-2915,"White Bread",Bakery,62,49,38,2.50,155.00,"Healthy Stock",95.00
+08-637-9335,Lettuce,"Fruits & Vegetables",100,7,14,2.00,200.00,"Healthy Stock",28.00
+85-212-2729,"Egg (Turkey)",Dairy,42,94,79,2.50,105.00,"Reorder Required",197.50
+51-469-4611,"Long Grain Rice","Grains & Pulses",62,81,91,1.60,99.20,"Reorder Required",145.60
+34-928-2775,Coconut,"Fruits & Vegetables",19,47,25,5.00,95.00,"Reorder Required",125.00
+32-676-1026,Salmon,Seafood,52,46,12,15.00,780.00,"Healthy Stock",180.00
+53-080-8252,"Sourdough Bread",Bakery,30,85,21,4.50,135.00,"Reorder Required",94.50
+49-526-7806,Kale,"Fruits & Vegetables",77,52,28,4.00,308.00,"Healthy Stock",112.00
+31-157-1822,"Ricotta Cheese",Dairy,96,80,20,6.10,585.60,"Healthy Stock",122.00
+91-426-3204,Haddock,Seafood,67,71,4,9.00,603.00,"Reorder Required",36.00
+64-109-7362,Anchovies,Seafood,86,55,96,10.00,860.00,"Healthy Stock",960.00
+68-418-6724,"Parmesan Cheese",Dairy,63,4,85,12.00,756.00,"Healthy Stock",1020.00
+93-813-2419,"Digestive Biscuit",Bakery,39,16,57,4.00,156.00,"Healthy Stock",228.00
+52-123-8039,Pomegranate,"Fruits & Vegetables",43,65,66,6.00,258.00,"Reorder Required",396.00
+74-666-5671,Tuna,Seafood,37,33,80,18.00,666.00,"Healthy Stock",1440.00
+26-161-6692,Zucchini,"Fruits & Vegetables",61,90,26,2.50,152.50,"Reorder Required",65.00
+44-368-7112,"Corn Oil","Oils & Fats",28,32,71,2.50,70.00,"Reorder Required",177.50
+01-820-5784,"Egg (Duck)",Dairy,63,38,77,1.00,63.00,"Healthy Stock",77.00
+10-378-9729,Cabbage,"Fruits & Vegetables",69,21,68,66.55,4591.95,"Healthy Stock",4525.40
+39-479-5147,Tuna,Seafood,92,68,79,18.00,1656.00,"Healthy Stock",1422.00
+95-262-6208,"Black Tea",Beverages,19,78,90,5.00,95.00,"Reorder Required",450.00
+37-248-6266,Pear,"Fruits & Vegetables",84,74,48,4.50,378.00,"Healthy Stock",216.00
+43-851-9440,Lime,"Fruits & Vegetables",14,75,19,1.90,26.60,"Reorder Required",36.10
+11-053-0107,Cherry,"Fruits & Vegetables",30,25,11,8.00,240.00,"Healthy Stock",88.00
+28-608-0039,Lemon,"Fruits & Vegetables",63,60,54,2.50,157.50,"Healthy Stock",135.00
+96-334-2593,"White Tea",Beverages,60,27,58,25.30,1518.00,"Healthy Stock",1467.40
+73-010-8323,Tuna,Seafood,16,34,89,18.00,288.00,"Reorder Required",1602.00
+86-273-9377,"White Rice","Grains & Pulses",18,86,20,1.80,32.40,"Reorder Required",36.00
+35-353-4068,"Bread Flour","Grains & Pulses",64,11,97,1.50,96.00,"Healthy Stock",145.50
+02-974-8526,Onion,"Fruits & Vegetables",74,4,39,2.00,148.00,"Healthy Stock",78.00
+95-252-9619,Carrot,"Fruits & Vegetables",92,39,50,1.60,147.20,"Healthy Stock",80.00
+43-469-7551,"Arabica Coffee",Beverages,45,36,97,20.00,900.00,"Healthy Stock",1940.00
+08-495-6853,"Heavy Cream",Dairy,74,62,6,4.00,296.00,"Healthy Stock",24.00
+83-556-0996,"Powdered Sugar","Grains & Pulses",88,34,94,2.40,211.20,"Healthy Stock",225.60
+65-282-0419,"White Tea",Beverages,50,100,91,25.50,1275.00,"Reorder Required",2320.50
+95-449-1286,"Egg (Chicken)",Dairy,10,17,70,0.20,2.00,"Reorder Required",14.00
+00-534-9775,"Black Coffee",Beverages,87,91,23,14.90,1296.30,"Reorder Required",342.70
+09-618-2842,"White Sugar","Grains & Pulses",38,82,17,2.00,76.00,"Reorder Required",34.00
+74-610-2295,"Green Coffee",Beverages,61,31,100,12.50,762.50,"Healthy Stock",1250.00
+17-265-1899,Orange,"Fruits & Vegetables",81,35,82,3.00,243.00,"Healthy Stock",246.00
+06-336-5482,Sardines,Seafood,89,34,15,6.00,534.00,"Healthy Stock",90.00
+20-283-0111,Pear,"Fruits & Vegetables",58,55,5,4.45,258.10,"Healthy Stock",22.25
+77-937-1108,"White Sugar","Grains & Pulses",39,83,21,2.00,78.00,"Reorder Required",42.00
+07-337-9889,Cauliflower,"Fruits & Vegetables",95,6,59,2.50,237.50,"Healthy Stock",147.50
+81-578-7404,"Gouda Cheese",Dairy,67,79,98,7.00,469.00,"Reorder Required",686.00
+90-303-1821,Onion,"Fruits & Vegetables",50,20,74,2.00,100.00,"Healthy Stock",148.00
+42-495-7698,"Sushi Rice","Grains & Pulses",10,11,29,4.30,43.00,"Reorder Required",124.70
+57-101-0060,"Whole Wheat Flour","Grains & Pulses",59,73,86,2.75,162.25,"Reorder Required",236.50
+99-561-4871,Haddock,Seafood,17,38,93,9.00,153.00,"Reorder Required",837.00
+40-126-0515,Carrot,"Fruits & Vegetables",74,37,57,1.50,111.00,"Healthy Stock",85.50
+19-377-5021,Mackerel,Seafood,91,96,90,7.50,682.50,"Reorder Required",675.00
+60-644-6596,Trout,Seafood,89,67,89,12.00,1068.00,"Healthy Stock",1068.00
+82-711-0772,"Egg (Goose)",Dairy,72,58,52,2.40,172.80,"Healthy Stock",124.80
+55-803-3964,"Bread Flour","Grains & Pulses",25,60,36,1.50,37.50,"Reorder Required",54.00
+00-119-8780,Halibut,Seafood,40,81,78,20.00,800.00,"Reorder Required",1560.00
+13-888-0149,Lime,"Fruits & Vegetables",75,18,65,2.00,150.00,"Healthy Stock",130.00
+51-273-4240,"Multigrain Bread",Bakery,85,57,25,3.50,297.50,"Healthy Stock",87.50
+23-395-3157,"Vegetable Oil","Oils & Fats",41,66,50,2.00,82.00,"Reorder Required",100.00
+03-149-9760,"Whipped Cream",Dairy,92,99,93,4.00,368.00,"Reorder Required",372.00
+02-895-7781,"Coconut Sugar","Grains & Pulses",51,55,76,5.00,255.00,"Reorder Required",380.00
+95-354-8583,"Long Grain Rice","Grains & Pulses",98,40,93,1.50,147.00,"Healthy Stock",139.50
+27-681-5588,Anchovies,Seafood,100,99,8,10.00,1000.00,"Healthy Stock",80.00
+70-534-7796,Zucchini,"Fruits & Vegetables",43,21,31,2.50,107.50,"Healthy Stock",77.50
+72-066-4597,Broccoli,"Fruits & Vegetables",31,54,52,4.00,124.00,"Reorder Required",208.00
+79-884-8810,Cucumber,"Fruits & Vegetables",12,93,29,1.75,21.00,"Reorder Required",50.75
+08-703-1382,Peach,"Fruits & Vegetables",40,53,7,4.00,160.00,"Reorder Required",28.00
+39-315-3936,"Heavy Cream",Dairy,57,62,72,4.00,228.00,"Reorder Required",288.00
+06-690-2335,"Jasmine Rice","Grains & Pulses",24,15,6,4.75,114.00,"Healthy Stock",28.50
+43-153-8268,"Vegetable Oil","Oils & Fats",75,61,19,2.00,150.00,"Healthy Stock",38.00
+44-634-8292,"Whole Wheat Flour","Grains & Pulses",60,69,64,2.75,165.00,"Reorder Required",176.00
+96-774-0457,Cod,Seafood,56,50,80,8.00,448.00,"Healthy Stock",640.00
+50-930-4751,Salmon,Seafood,88,40,29,15.00,1320.00,"Healthy Stock",435.00
+63-918-8253,Mango,"Fruits & Vegetables",53,98,23,5.00,265.00,"Reorder Required",115.00
+84-629-1532,"Arabica Coffee",Beverages,22,89,25,21.00,462.00,"Reorder Required",525.00
+77-312-6317,Spinach,"Fruits & Vegetables",41,29,76,2.40,98.40,"Healthy Stock",182.40
+21-693-8216,"Corn Oil","Oils & Fats",70,96,85,2.50,175.00,"Reorder Required",212.50
+74-430-8245,Peach,"Fruits & Vegetables",73,90,77,4.00,292.00,"Reorder Required",308.00
+39-449-0772,"Feta Cheese",Dairy,94,13,15,7.00,658.00,"Healthy Stock",105.00
+51-312-8608,"Cheddar Cheese",Dairy,68,60,21,8.90,605.20,"Healthy Stock",186.90
+89-543-3456,Blueberries,"Fruits & Vegetables",66,40,96,10.00,660.00,"Healthy Stock",960.00
+57-861-4379,"Swiss Cheese",Dairy,93,8,51,8.00,744.00,"Healthy Stock",408.00
+39-768-8205,"Egg (Turkey)",Dairy,56,97,29,2.50,140.00,"Reorder Required",72.50
+95-130-9020,"Heavy Cream",Dairy,82,12,94,4.10,336.20,"Healthy Stock",385.40
+02-575-1980,Plum,"Fruits & Vegetables",11,58,32,4.00,44.00,"Reorder Required",128.00
+22-895-6595,"Rice Flour","Grains & Pulses",31,32,69,2.00,62.00,"Reorder Required",138.00
+85-207-4164,Eggplant,"Fruits & Vegetables",97,20,72,3.00,291.00,"Healthy Stock",216.00
+26-799-3714,"Robusta Coffee",Beverages,74,2,45,10.00,740.00,"Healthy Stock",450.00
+57-903-6434,Tomato,"Fruits & Vegetables",44,67,15,2.50,110.00,"Reorder Required",37.50
+80-227-6886,Garlic,"Fruits & Vegetables",33,4,31,7.00,231.00,"Healthy Stock",217.00
+31-255-9616,Tuna,Seafood,88,71,9,18.00,1584.00,"Healthy Stock",162.00
+37-610-1999,Halibut,Seafood,14,67,65,20.00,280.00,"Reorder Required",1300.00
+86-330-0214,"Arabica Coffee",Beverages,36,64,63,20.00,720.00,"Reorder Required",1260.00
+29-592-7315,"Arborio Rice","Grains & Pulses",56,4,74,4.50,252.00,"Healthy Stock",333.00
+86-257-4613,"Jasmine Rice","Grains & Pulses",44,26,60,4.75,209.00,"Healthy Stock",285.00
+79-350-5841,"Jasmine Rice","Grains & Pulses",33,44,89,4.75,156.75,"Reorder Required",422.75
+22-329-7791,Watermelon,"Fruits & Vegetables",53,41,30,3.00,159.00,"Healthy Stock",90.00
+10-854-5467,"Canola Oil","Oils & Fats",96,51,40,2.30,220.80,"Healthy Stock",92.00
+70-612-2531,Pineapple,"Fruits & Vegetables",48,48,39,3.45,165.60,"Reorder Required",134.55
+71-516-1996,"Corn Oil","Oils & Fats",96,52,16,2.50,240.00,"Healthy Stock",40.00
+71-999-2404,Mango,"Fruits & Vegetables",58,58,28,4.70,272.60,"Reorder Required",131.60
+29-875-6900,Papaya,"Fruits & Vegetables",45,28,6,4.50,202.50,"Healthy Stock",27.00
+11-922-3342,"Black Coffee",Beverages,24,77,32,15.50,372.00,"Reorder Required",496.00
+74-562-7431,"Vanilla Biscuit",Bakery,94,34,21,5.50,517.00,"Healthy Stock",115.50
+95-357-2870,"Arborio Rice","Grains & Pulses",86,80,80,4.50,387.00,"Healthy Stock",360.00
+04-277-5245,"Coconut Sugar","Grains & Pulses",20,51,21,5.00,100.00,"Reorder Required",105.00
+91-105-7317,Orange,"Fruits & Vegetables",85,45,71,3.00,255.00,"Healthy Stock",213.00
+37-246-0018,Broccoli,"Fruits & Vegetables",30,59,76,4.00,120.00,"Reorder Required",304.00
+27-474-0056,Spinach,"Fruits & Vegetables",23,6,40,2.50,57.50,"Healthy Stock",100.00
+12-439-8428,Eggplant,"Fruits & Vegetables",17,3,33,3.00,51.00,"Healthy Stock",99.00
+56-657-4387,"White Bread",Bakery,61,77,45,2.50,152.50,"Reorder Required",112.50
+91-290-9062,"Digestive Biscuit",Bakery,29,2,84,4.00,116.00,"Healthy Stock",336.00
+06-503-5891,"Egg (Goose)",Dairy,40,22,74,2.45,98.00,"Healthy Stock",181.30
+37-064-7275,"Robusta Coffee",Beverages,20,42,45,10.00,200.00,"Reorder Required",450.00
+21-993-5632,Watermelon,"Fruits & Vegetables",51,72,85,3.00,153.00,"Reorder Required",255.00
+05-720-8792,Carrot,"Fruits & Vegetables",80,91,36,1.50,120.00,"Reorder Required",54.00
+36-531-4087,"Almond Flour","Grains & Pulses",85,12,94,9.50,807.50,"Healthy Stock",893.00
+61-680-9496,Apple,"Fruits & Vegetables",17,14,17,3.50,59.50,"Healthy Stock",59.50
+36-636-4873,"Black Rice","Grains & Pulses",86,100,74,6.10,524.60,"Reorder Required",451.40
+45-992-5653,"Whole Wheat Flour","Grains & Pulses",82,67,67,2.75,225.50,"Healthy Stock",184.25
+85-781-5386,Salmon,Seafood,78,68,86,15.00,1170.00,"Healthy Stock",1290.00
+76-459-2392,"Palm Oil","Oils & Fats",74,4,67,1.80,133.20,"Healthy Stock",120.60
+92-791-0606,"Short Grain Rice","Grains & Pulses",18,62,2,3.00,54.00,"Reorder Required",6.00
+87-199-2743,Papaya,"Fruits & Vegetables",59,74,100,4.50,265.50,"Reorder Required",450.00
+04-038-1547,"Rye Bread",Bakery,48,2,16,2.80,134.40,"Healthy Stock",44.80
+83-917-7384,Garlic,"Fruits & Vegetables",76,97,20,7.00,532.00,"Reorder Required",140.00
+94-525-6925,"Rye Bread",Bakery,50,56,63,3.00,150.00,"Reorder Required",189.00
+16-632-1308,"Arabica Coffee",Beverages,23,13,15,20.00,460.00,"Healthy Stock",300.00
+13-798-3397,"Egg (Turkey)",Dairy,86,16,37,2.50,215.00,"Healthy Stock",92.50
+69-834-2874,"Oatmeal Biscuit",Bakery,28,62,81,5.00,140.00,"Reorder Required",405.00
+60-343-3288,Tilapia,Seafood,85,92,66,6.70,569.50,"Reorder Required",442.20
+21-650-9319,"White Bread",Bakery,42,88,95,2.50,105.00,"Reorder Required",237.50
+14-550-2152,"Green Tea",Beverages,51,1,61,7.60,387.60,"Healthy Stock",463.60
+61-582-7399,Apricot,"Fruits & Vegetables",73,83,74,5.00,365.00,"Reorder Required",370.00
+28-107-4953,"Chocolate Biscuit",Bakery,53,19,94,5.00,265.00,"Healthy Stock",470.00
+53-050-8242,Mackerel,Seafood,82,25,94,7.50,615.00,"Healthy Stock",705.00
+88-586-8797,Grapes,"Fruits & Vegetables",98,62,97,5.50,539.00,"Healthy Stock",533.50
+93-772-3085,Banana,"Fruits & Vegetables",39,19,18,13.99,545.61,"Healthy Stock",251.82
+04-001-1793,"Green Coffee",Beverages,43,38,63,12.00,516.00,"Healthy Stock",756.00
+10-137-9759,Watermelon,"Fruits & Vegetables",90,17,17,3.00,270.00,"Healthy Stock",51.00
+96-682-8546,"Egg (Chicken)",Dairy,70,29,24,0.20,14.00,"Healthy Stock",4.80
+07-617-6934,"Coconut Sugar","Grains & Pulses",91,39,48,5.00,455.00,"Healthy Stock",240.00
+43-164-5984,Butter,Dairy,36,75,35,2.90,104.40,"Reorder Required",101.50
+07-074-1196,Plum,"Fruits & Vegetables",11,56,62,3.90,42.90,"Reorder Required",241.80
+05-193-8096,Grapes,"Fruits & Vegetables",82,21,85,5.50,451.00,"Healthy Stock",467.50
+92-837-8839,"Vegetable Oil","Oils & Fats",23,71,32,2.00,46.00,"Reorder Required",64.00
+60-343-7973,"Multigrain Bread",Bakery,56,86,23,3.20,179.20,"Reorder Required",73.60
+76-264-0748,Eggplant,"Fruits & Vegetables",47,41,63,3.00,141.00,"Healthy Stock",189.00
+67-130-4114,"Bell Pepper","Fruits & Vegetables",84,26,37,4.50,378.00,"Healthy Stock",166.50
+99-961-0767,"Heavy Cream",Dairy,85,15,30,4.00,340.00,"Healthy Stock",120.00
+24-228-6840,"Herbal Tea",Beverages,27,1,3,30.00,810.00,"Healthy Stock",90.00
+83-573-4586,"Sesame Oil","Oils & Fats",77,95,82,6.50,500.50,"Reorder Required",533.00
+80-698-0324,"Butter Biscuit",Bakery,84,58,28,6.00,504.00,"Healthy Stock",168.00
+83-568-3475,Halibut,Seafood,35,72,70,20.00,700.00,"Reorder Required",1400.00
+15-846-7959,Zucchini,"Fruits & Vegetables",98,14,11,2.50,245.00,"Healthy Stock",27.50
+98-148-0940,"Egg (Chicken)",Dairy,63,62,18,0.20,12.60,"Healthy Stock",3.60
+76-325-9093,"Sesame Oil","Oils & Fats",27,92,56,6.50,175.50,"Reorder Required",364.00
+10-034-7654,"Bread Flour","Grains & Pulses",70,96,92,1.50,105.00,"Reorder Required",138.00
+21-633-8696,"Coconut Sugar","Grains & Pulses",49,59,73,5.00,245.00,"Reorder Required",365.00
+74-181-4135,"Egg (Chicken)",Dairy,22,19,4,0.20,4.40,"Healthy Stock",0.80
+98-064-4465,"Mozzarella Cheese",Dairy,96,38,17,7.00,672.00,"Healthy Stock",119.00
+41-475-5305,"Rye Bread",Bakery,61,20,29,3.00,183.00,"Healthy Stock",87.00
+80-988-4653,Zucchini,"Fruits & Vegetables",43,66,85,2.50,107.50,"Reorder Required",212.50
+51-583-6029,"Digestive Biscuit",Bakery,38,43,91,4.00,152.00,"Reorder Required",364.00
+63-270-7076,"Multigrain Bread",Bakery,65,36,37,3.50,227.50,"Healthy Stock",129.50
+70-149-6756,"Heavy Cream",Dairy,14,99,97,4.20,58.80,"Reorder Required",407.40
+98-909-9395,"Cottage Cheese",Dairy,67,98,92,5.00,335.00,"Reorder Required",460.00
+35-621-2546,"Swiss Cheese",Dairy,85,89,41,8.00,680.00,"Reorder Required",328.00
+24-579-6500,Anchovies,Seafood,93,51,70,10.00,930.00,"Healthy Stock",700.00
+01-703-8441,"Raw Sugar","Grains & Pulses",100,10,89,1.50,150.00,"Healthy Stock",133.50
+61-796-6540,"Ricotta Cheese",Dairy,88,4,79,6.00,528.00,"Healthy Stock",474.00
+16-354-8122,"Digestive Biscuit",Bakery,97,99,96,4.00,388.00,"Reorder Required",384.00
+67-512-9754,"Egg (Turkey)",Dairy,19,100,83,2.50,47.50,"Reorder Required",207.50
+11-316-8405,Mango,"Fruits & Vegetables",24,55,51,5.00,120.00,"Reorder Required",255.00
+36-372-2295,"Basmati Rice","Grains & Pulses",55,13,71,4.45,244.75,"Healthy Stock",315.95
+84-075-7647,"Canola Oil","Oils & Fats",91,82,58,2.30,209.30,"Healthy Stock",133.40
+08-226-5155,"Bell Pepper","Fruits & Vegetables",49,93,15,4.50,220.50,"Reorder Required",67.50
+46-496-2930,Pomegranate,"Fruits & Vegetables",66,28,7,6.00,396.00,"Healthy Stock",42.00
+00-215-7434,"Egg (Goose)",Dairy,14,63,74,2.50,35.00,"Reorder Required",185.00
+12-828-1063,"Mozzarella Cheese",Dairy,36,82,85,7.10,255.60,"Reorder Required",603.50
+48-770-6319,"Egg (Duck)",Dairy,52,31,18,1.00,52.00,"Healthy Stock",18.00
+44-305-1866,Butter,Dairy,48,71,86,3.00,144.00,"Reorder Required",258.00
+97-283-4840,"Palm Oil","Oils & Fats",58,23,66,1.80,104.40,"Healthy Stock",118.80
+35-328-8392,"Long Grain Rice","Grains & Pulses",39,2,71,1.45,56.55,"Healthy Stock",102.95
+43-693-2092,Butter,Dairy,51,100,70,3.00,153.00,"Reorder Required",210.00
+47-802-5023,Cod,Seafood,16,20,45,8.00,128.00,"Reorder Required",360.00
+24-009-1208,"White Tea",Beverages,62,31,24,25.00,1550.00,"Healthy Stock",600.00
+98-556-5323,Pomegranate,"Fruits & Vegetables",60,61,2,6.00,360.00,"Reorder Required",12.00
+14-521-4167,Buttermilk,Dairy,47,2,76,2.50,117.50,"Healthy Stock",190.00
+61-607-7622,"Egg (Duck)",Dairy,23,38,25,1.00,23.00,"Reorder Required",25.00
+06-849-4869,"Sesame Oil","Oils & Fats",85,15,16,6.50,552.50,"Healthy Stock",104.00
+41-526-4036,"Whipped Cream",Dairy,55,25,87,4.00,220.00,"Healthy Stock",348.00
+49-570-8214,"Sour Cream",Dairy,81,76,10,4.00,324.00,"Healthy Stock",40.00
+85-561-4694,Kiwi,"Fruits & Vegetables",28,27,22,6.00,168.00,"Healthy Stock",132.00
+26-629-5920,"Rye Bread",Bakery,99,6,88,3.00,297.00,"Healthy Stock",264.00
+75-029-9003,"Sourdough Bread",Bakery,34,42,86,4.00,136.00,"Reorder Required",344.00
+79-428-8753,Cabbage,"Fruits & Vegetables",62,79,95,1.00,62.00,"Reorder Required",95.00
+34-369-7712,Apricot,"Fruits & Vegetables",55,96,40,5.00,275.00,"Reorder Required",200.00
+22-141-9798,"White Sugar","Grains & Pulses",47,7,63,2.00,94.00,"Healthy Stock",126.00
+38-924-3007,Peas,"Fruits & Vegetables",12,28,11,3.00,36.00,"Reorder Required",33.00
+70-005-5970,Apple,"Fruits & Vegetables",84,46,80,3.50,294.00,"Healthy Stock",280.00
+19-021-5024,Broccoli,"Fruits & Vegetables",47,63,86,4.00,188.00,"Reorder Required",344.00
+31-403-6234,Tuna,Seafood,87,24,66,18.00,1566.00,"Healthy Stock",1188.00
+19-047-4239,Peach,"Fruits & Vegetables",47,72,73,4.00,188.00,"Reorder Required",292.00
+29-092-3453,Spinach,"Fruits & Vegetables",61,17,69,2.52,153.72,"Healthy Stock",173.88
+28-956-1320,"Greek Yogurt",Dairy,62,2,98,3.00,186.00,"Healthy Stock",294.00
+88-069-5486,Cod,Seafood,31,87,19,8.00,248.00,"Reorder Required",152.00
+97-710-2449,"Rye Bread",Bakery,28,94,80,2.80,78.40,"Reorder Required",224.00
+84-272-0790,Blueberries,"Fruits & Vegetables",28,86,44,10.00,280.00,"Reorder Required",440.00
+89-602-6755,Milk,Dairy,74,90,26,1.00,74.00,"Reorder Required",26.00
+63-162-9244,Eggplant,"Fruits & Vegetables",49,89,65,3.00,147.00,"Reorder Required",195.00
+49-579-4325,"Ricotta Cheese",Dairy,64,95,62,6.00,384.00,"Reorder Required",372.00
+96-503-7712,"White Bread",Bakery,93,76,82,2.50,232.50,"Healthy Stock",205.00
+56-213-0577,Papaya,"Fruits & Vegetables",24,25,52,4.50,108.00,"Reorder Required",234.00
+24-989-3302,Coconut,"Fruits & Vegetables",85,90,16,5.00,425.00,"Reorder Required",80.00
+79-920-2395,Mushrooms,"Fruits & Vegetables",81,23,17,6.25,506.25,"Healthy Stock",106.25
+73-118-1117,"Olive Oil","Oils & Fats",52,88,55,6.00,312.00,"Reorder Required",330.00
+65-674-6076,"Egg (Quail)",Dairy,78,61,6,0.80,62.40,"Healthy Stock",4.80
+66-312-5511,Anchovies,Seafood,44,97,76,10.00,440.00,"Reorder Required",760.00
+58-005-5343,Cucumber,"Fruits & Vegetables",38,94,87,1.80,68.40,"Reorder Required",156.60
+40-795-0753,"Raw Sugar","Grains & Pulses",31,43,80,1.50,46.50,"Reorder Required",120.00
+73-401-5721,Haddock,Seafood,46,28,73,9.00,414.00,"Healthy Stock",657.00
+53-680-5293,"Cheddar Cheese",Dairy,88,74,97,9.00,792.00,"Healthy Stock",873.00
+02-170-5225,"Raw Sugar","Grains & Pulses",90,75,43,1.50,135.00,"Healthy Stock",64.50
+55-680-0982,"Green Tea",Beverages,64,66,28,8.00,512.00,"Reorder Required",224.00
+48-414-6162,"Arabica Coffee",Beverages,55,93,84,20.00,1100.00,"Reorder Required",1680.00
+71-631-5875,Salmon,Seafood,88,83,42,15.00,1320.00,"Healthy Stock",630.00
+34-538-1180,"Sour Cream",Dairy,29,39,80,4.00,116.00,"Reorder Required",320.00
+48-957-6116,Eggplant,"Fruits & Vegetables",31,44,9,3.00,93.00,"Reorder Required",27.00
+32-261-0008,"Heavy Cream",Dairy,63,48,22,4.00,252.00,"Healthy Stock",88.00
+34-110-1040,"Bell Pepper","Fruits & Vegetables",75,85,27,4.50,337.50,"Reorder Required",121.50
+74-132-5528,Cauliflower,"Fruits & Vegetables",63,62,98,2.50,157.50,"Healthy Stock",245.00
+15-797-4824,Coconut,"Fruits & Vegetables",32,27,26,5.00,160.00,"Healthy Stock",130.00
+76-854-0095,"White Sugar","Grains & Pulses",65,61,82,2.00,130.00,"Healthy Stock",164.00
+94-092-3355,Cauliflower,"Fruits & Vegetables",57,43,46,2.50,142.50,"Healthy Stock",115.00
+99-194-5600,Cauliflower,"Fruits & Vegetables",57,25,98,2.50,142.50,"Healthy Stock",245.00
+40-205-8252,"Multigrain Bread",Bakery,38,37,27,3.50,133.00,"Healthy Stock",94.50
+69-674-5387,Yogurt,Dairy,59,27,63,1.75,103.25,"Healthy Stock",110.25
+04-293-6969,Peach,"Fruits & Vegetables",37,38,24,4.00,148.00,"Reorder Required",96.00
+21-890-2826,"Gouda Cheese",Dairy,48,12,62,7.00,336.00,"Healthy Stock",434.00
+65-759-3721,"Butter Biscuit",Bakery,33,60,67,6.00,198.00,"Reorder Required",402.00
+36-383-3677,"Corn Oil","Oils & Fats",32,38,23,2.50,80.00,"Reorder Required",57.50
+84-546-7624,Cherry,"Fruits & Vegetables",43,41,100,8.00,344.00,"Healthy Stock",800.00
+77-827-0820,"Sesame Oil","Oils & Fats",97,20,8,6.50,630.50,"Healthy Stock",52.00
+57-562-2358,"Black Coffee",Beverages,37,94,76,15.00,555.00,"Reorder Required",1140.00
+93-218-8108,"Heavy Cream",Dairy,74,60,27,4.00,296.00,"Healthy Stock",108.00
+81-354-4203,Haddock,Seafood,76,57,78,9.00,684.00,"Healthy Stock",702.00
+57-613-5779,"Gouda Cheese",Dairy,100,21,64,7.00,700.00,"Healthy Stock",448.00
+49-919-8798,"Evaporated Milk",Dairy,64,31,91,1.90,121.60,"Healthy Stock",172.90
+70-542-4269,"Gouda Cheese",Dairy,41,22,11,7.00,287.00,"Healthy Stock",77.00
+43-670-8544,Orange,"Fruits & Vegetables",84,95,22,2.85,239.40,"Reorder Required",62.70
+29-436-6570,"Digestive Biscuit",Bakery,61,8,45,4.00,244.00,"Healthy Stock",180.00
+10-617-7581,"Peanut Oil","Oils & Fats",24,14,5,4.00,96.00,"Healthy Stock",20.00
+50-772-2613,"Cheddar Cheese",Dairy,86,23,1,9.00,774.00,"Healthy Stock",9.00
+26-535-4727,Tilapia,Seafood,93,25,23,7.00,651.00,"Healthy Stock",161.00
+88-602-8210,"Avocado Oil","Oils & Fats",99,96,39,10.00,990.00,"Healthy Stock",390.00
+83-966-3280,Mackerel,Seafood,30,29,70,7.50,225.00,"Healthy Stock",525.00
+21-252-1360,"Corn Oil","Oils & Fats",75,23,34,2.50,187.50,"Healthy Stock",85.00
+89-922-4773,"Whole Wheat Flour","Grains & Pulses",39,53,64,2.75,107.25,"Reorder Required",176.00
+15-884-7413,Apple,"Fruits & Vegetables",77,58,13,3.50,269.50,"Healthy Stock",45.50
+82-243-3180,"Palm Oil","Oils & Fats",43,63,80,1.80,77.40,"Reorder Required",144.00
+33-807-7247,"Mozzarella Cheese",Dairy,58,17,26,7.00,406.00,"Healthy Stock",182.00
+07-858-5487,"Swiss Cheese",Dairy,64,14,44,8.00,512.00,"Healthy Stock",352.00
+27-387-0428,Halibut,Seafood,88,42,68,20.00,1760.00,"Healthy Stock",1360.00
+79-741-0770,Mushrooms,"Fruits & Vegetables",72,87,39,6.00,432.00,"Reorder Required",234.00
+34-086-3222,Lemon,"Fruits & Vegetables",12,7,48,2.30,27.60,"Healthy Stock",110.40
+93-166-3169,"White Tea",Beverages,58,81,66,25.00,1450.00,"Reorder Required",1650.00
+74-548-9313,Mango,"Fruits & Vegetables",99,59,12,5.00,495.00,"Healthy Stock",60.00
+53-710-7630,"Rice Flour","Grains & Pulses",25,95,71,2.00,50.00,"Reorder Required",142.00
+64-119-7804,"Bell Pepper","Fruits & Vegetables",98,43,9,4.50,441.00,"Healthy Stock",40.50
+40-810-9261,"Green Coffee",Beverages,75,47,33,12.50,937.50,"Healthy Stock",412.50
+91-553-1774,"Feta Cheese",Dairy,80,43,80,7.00,560.00,"Healthy Stock",560.00
+39-192-3521,"Herbal Tea",Beverages,20,9,12,30.50,610.00,"Healthy Stock",366.00
+63-890-1246,"Oatmeal Biscuit",Bakery,93,50,43,5.00,465.00,"Healthy Stock",215.00
+71-954-4501,Anchovies,Seafood,66,49,41,10.00,660.00,"Healthy Stock",410.00
+00-357-2313,"Avocado Oil","Oils & Fats",10,86,23,10.00,100.00,"Reorder Required",230.00
+29-756-7042,"Digestive Biscuit",Bakery,90,52,50,4.00,360.00,"Healthy Stock",200.00
+92-551-8504,"Raw Sugar","Grains & Pulses",19,81,33,1.50,28.50,"Reorder Required",49.50
+61-317-9944,"White Bread",Bakery,72,20,71,2.50,180.00,"Healthy Stock",177.50
+03-276-3931,Mango,"Fruits & Vegetables",60,36,28,4.50,270.00,"Healthy Stock",126.00
+02-275-6061,Potato,"Fruits & Vegetables",26,16,69,1.20,31.20,"Healthy Stock",82.80
+72-970-0239,"Sesame Oil","Oils & Fats",85,86,21,6.50,552.50,"Reorder Required",136.50
+36-679-4670,"Bell Pepper","Fruits & Vegetables",90,22,20,4.50,405.00,"Healthy Stock",90.00
+13-409-9040,"White Tea",Beverages,35,20,42,25.25,883.75,"Healthy Stock",1060.50
+88-408-0310,"Corn Oil","Oils & Fats",50,40,69,2.50,125.00,"Healthy Stock",172.50
+57-359-3397,Garlic,"Fruits & Vegetables",43,40,30,7.00,301.00,"Healthy Stock",210.00
+01-050-2246,Grapes,"Fruits & Vegetables",99,68,1,5.50,544.50,"Healthy Stock",5.50
+47-581-0363,"Parmesan Cheese",Dairy,99,10,88,12.00,1188.00,"Healthy Stock",1056.00
+33-670-6797,Mackerel,Seafood,45,56,64,7.50,337.50,"Reorder Required",480.00
+69-578-7930,"Brown Rice","Grains & Pulses",44,67,31,2.50,110.00,"Reorder Required",77.50
+75-672-4378,Pomegranate,"Fruits & Vegetables",62,40,86,6.00,372.00,"Healthy Stock",516.00
+31-211-5803,"Oatmeal Biscuit",Bakery,16,9,32,5.00,80.00,"Healthy Stock",160.00
+49-861-7823,Coconut,"Fruits & Vegetables",99,8,27,5.00,495.00,"Healthy Stock",135.00
+84-624-0201,"Bread Flour","Grains & Pulses",71,77,30,1.50,106.50,"Reorder Required",45.00
+66-993-4234,Cucumber,"Fruits & Vegetables",13,60,100,1.80,23.40,"Reorder Required",180.00
+00-963-2193,Milk,Dairy,43,88,33,1.00,43.00,"Reorder Required",33.00
+99-420-3592,"Butter Biscuit",Bakery,22,24,94,6.00,132.00,"Reorder Required",564.00
+76-623-7844,"Egg (Quail)",Dairy,29,33,88,0.80,23.20,"Reorder Required",70.40
+28-003-8065,"Almond Flour","Grains & Pulses",79,47,51,9.50,750.50,"Healthy Stock",484.50
+28-008-2951,Broccoli,"Fruits & Vegetables",95,29,28,4.00,380.00,"Healthy Stock",112.00
+45-402-0421,"Swiss Cheese",Dairy,70,84,72,8.00,560.00,"Reorder Required",576.00
+73-942-0508,Kale,"Fruits & Vegetables",61,100,94,4.00,244.00,"Reorder Required",376.00
+22-266-9291,Sardines,Seafood,11,17,59,6.00,66.00,"Reorder Required",354.00
+06-068-6793,Buttermilk,Dairy,39,80,68,2.50,97.50,"Reorder Required",170.00
+58-063-8633,"Bell Pepper","Fruits & Vegetables",50,3,88,4.50,225.00,"Healthy Stock",396.00
+27-442-3654,"Herbal Tea",Beverages,59,17,1,30.00,1770.00,"Healthy Stock",30.00
+03-043-9933,Strawberries,"Fruits & Vegetables",16,23,76,6.10,97.60,"Reorder Required",463.60
+99-137-1730,"Bread Flour","Grains & Pulses",62,79,23,1.50,93.00,"Reorder Required",34.50
+09-622-7119,Haddock,Seafood,30,81,99,9.00,270.00,"Reorder Required",891.00
+95-356-1566,Grapes,"Fruits & Vegetables",13,61,77,5.50,71.50,"Reorder Required",423.50
+22-319-1377,"White Sugar","Grains & Pulses",14,16,93,2.00,28.00,"Reorder Required",186.00
+89-181-4523,"Wild Rice","Grains & Pulses",46,6,64,10.00,460.00,"Healthy Stock",640.00
+38-555-9147,"Black Coffee",Beverages,62,23,25,15.50,961.00,"Healthy Stock",387.50
+53-667-4109,Onion,"Fruits & Vegetables",16,75,42,2.00,32.00,"Reorder Required",84.00
+14-489-8669,"All-Purpose Flour","Grains & Pulses",54,69,68,1.75,94.50,"Reorder Required",119.00
+26-031-8070,"Vegetable Oil","Oils & Fats",57,99,23,2.00,114.00,"Reorder Required",46.00
+47-221-2470,Pomegranate,"Fruits & Vegetables",17,45,44,6.00,102.00,"Reorder Required",264.00
+67-382-4435,"Green Beans","Fruits & Vegetables",99,37,74,2.10,207.90,"Healthy Stock",155.40
+94-029-2717,Broccoli,"Fruits & Vegetables",40,8,98,4.00,160.00,"Healthy Stock",392.00
+47-866-6589,"Egg (Duck)",Dairy,41,61,69,1.00,41.00,"Reorder Required",69.00
+94-355-3070,Tilapia,Seafood,14,52,80,6.80,95.20,"Reorder Required",544.00
+82-342-7339,"Vanilla Biscuit",Bakery,80,61,23,5.50,440.00,"Healthy Stock",126.50
+80-459-5950,"Arabica Coffee",Beverages,74,10,74,20.00,1480.00,"Healthy Stock",1480.00
+67-248-6306,Cauliflower,"Fruits & Vegetables",77,54,10,2.50,192.50,"Healthy Stock",25.00
+68-973-8812,"Sweet Potato","Fruits & Vegetables",44,77,45,2.00,88.00,"Reorder Required",90.00
+11-325-7396,Mango,"Fruits & Vegetables",92,46,13,5.00,460.00,"Healthy Stock",65.00
+68-761-6907,Zucchini,"Fruits & Vegetables",26,18,62,2.50,65.00,"Healthy Stock",155.00
+62-509-0666,"Almond Flour","Grains & Pulses",13,88,7,9.50,123.50,"Reorder Required",66.50
+44-476-0390,Lemon,"Fruits & Vegetables",90,92,56,2.50,225.00,"Reorder Required",140.00
+08-213-2058,"Sour Cream",Dairy,43,73,14,4.00,172.00,"Reorder Required",56.00
+35-529-2933,Broccoli,"Fruits & Vegetables",85,54,18,4.00,340.00,"Healthy Stock",72.00
+24-364-3341,"Egg (Turkey)",Dairy,44,84,63,2.50,110.00,"Reorder Required",157.50
+65-644-1394,Pear,"Fruits & Vegetables",26,95,36,4.50,117.00,"Reorder Required",162.00
+88-401-3700,Cauliflower,"Fruits & Vegetables",86,66,24,2.50,215.00,"Healthy Stock",60.00
+47-441-7682,"Digestive Biscuit",Bakery,40,91,24,4.00,160.00,"Reorder Required",96.00
+68-977-2498,Grapes,"Fruits & Vegetables",88,99,41,5.50,484.00,"Reorder Required",225.50
+37-567-3218,"Almond Flour","Grains & Pulses",37,47,34,9.50,351.50,"Reorder Required",323.00
+87-903-3486,"Peanut Oil","Oils & Fats",21,25,39,4.00,84.00,"Reorder Required",156.00
+96-316-7600,"Bell Pepper","Fruits & Vegetables",70,31,55,4.50,315.00,"Healthy Stock",247.50
+00-842-9790,"Egg (Goose)",Dairy,65,94,4,2.50,162.50,"Reorder Required",10.00
+96-164-0607,"Coconut Oil","Oils & Fats",89,79,66,5.00,445.00,"Healthy Stock",330.00
+04-240-2226,"Olive Oil","Oils & Fats",47,48,73,6.00,282.00,"Reorder Required",438.00
+97-772-2336,Pineapple,"Fruits & Vegetables",70,30,69,3.50,245.00,"Healthy Stock",241.50
+63-822-5278,Pomegranate,"Fruits & Vegetables",14,66,1,6.00,84.00,"Reorder Required",6.00
+19-967-0632,"Short Grain Rice","Grains & Pulses",53,86,54,3.00,159.00,"Reorder Required",162.00
+28-986-8001,Pomegranate,"Fruits & Vegetables",65,69,4,6.00,390.00,"Reorder Required",24.00
+44-128-2185,"Jasmine Rice","Grains & Pulses",98,20,81,4.75,465.50,"Healthy Stock",384.75
+84-327-7787,"Egg (Chicken)",Dairy,83,35,43,0.20,16.60,"Healthy Stock",8.60
+50-364-5828,Coconut,"Fruits & Vegetables",89,57,92,5.00,445.00,"Healthy Stock",460.00
+65-368-2479,"Egg (Turkey)",Dairy,23,21,59,2.40,55.20,"Healthy Stock",141.60
+17-253-5688,"Greek Yogurt",Dairy,39,55,39,3.00,117.00,"Reorder Required",117.00
+29-205-1132,"Sushi Rice","Grains & Pulses",22,72,70,4.50,99.00,"Reorder Required",315.00
+64-854-8664,"Peanut Oil","Oils & Fats",79,3,36,4.00,316.00,"Healthy Stock",144.00
+66-627-9752,Trout,Seafood,49,73,48,12.00,588.00,"Reorder Required",576.00
+62-795-7801,"Palm Oil","Oils & Fats",35,41,84,1.80,63.00,"Reorder Required",151.20
+40-683-0283,"White Sugar","Grains & Pulses",27,64,78,2.00,54.00,"Reorder Required",156.00
+87-423-8486,"Powdered Sugar","Grains & Pulses",63,4,46,2.50,157.50,"Healthy Stock",115.00
+16-499-5059,Pear,"Fruits & Vegetables",77,20,5,4.50,346.50,"Healthy Stock",22.50
+05-334-2923,"Bread Flour","Grains & Pulses",14,74,71,1.50,21.00,"Reorder Required",106.50
+74-845-3299,"Green Tea",Beverages,63,92,26,8.00,504.00,"Reorder Required",208.00
+10-249-7928,"Black Rice","Grains & Pulses",85,4,75,6.50,552.50,"Healthy Stock",487.50
+08-725-8156,Tilapia,Seafood,59,59,10,7.00,413.00,"Reorder Required",70.00
+41-240-8856,Haddock,Seafood,79,53,12,9.00,711.00,"Healthy Stock",108.00
+35-257-9312,"Parmesan Cheese",Dairy,80,100,48,12.00,960.00,"Reorder Required",576.00
+13-980-8804,"Sweet Potato","Fruits & Vegetables",100,3,32,2.00,200.00,"Healthy Stock",64.00
+68-977-6854,Apricot,"Fruits & Vegetables",90,30,42,5.00,450.00,"Healthy Stock",210.00
+90-773-9557,Butter,Dairy,85,28,21,3.00,255.00,"Healthy Stock",63.00
+89-328-9019,"Bread Flour","Grains & Pulses",63,43,8,1.50,94.50,"Healthy Stock",12.00
+59-075-2457,"Egg (Goose)",Dairy,97,26,15,2.50,242.50,"Healthy Stock",37.50
+31-627-6025,"White Bread",Bakery,56,62,64,2.50,140.00,"Reorder Required",160.00
+28-824-9017,Trout,Seafood,19,94,17,11.50,218.50,"Reorder Required",195.50
+06-858-5680,"Sesame Oil","Oils & Fats",15,34,57,6.50,97.50,"Reorder Required",370.50
+38-732-7667,Pineapple,"Fruits & Vegetables",18,52,22,3.50,63.00,"Reorder Required",77.00
+85-237-3505,"Green Tea",Beverages,88,50,88,8.00,704.00,"Healthy Stock",704.00
+73-117-6105,"Brown Rice","Grains & Pulses",44,48,77,2.50,110.00,"Reorder Required",192.50
+46-436-5351,"Green Tea",Beverages,80,54,21,8.50,680.00,"Healthy Stock",178.50
+56-303-5256,"Wild Rice","Grains & Pulses",58,24,25,10.00,580.00,"Healthy Stock",250.00
+57-394-1587,"Bread Flour","Grains & Pulses",57,63,41,1.50,85.50,"Reorder Required",61.50
+51-934-9117,Sardines,Seafood,30,55,4,6.00,180.00,"Reorder Required",24.00
+77-377-1659,"Almond Flour","Grains & Pulses",74,22,91,9.50,703.00,"Healthy Stock",864.50
+27-262-2437,"Swiss Cheese",Dairy,80,9,29,8.10,648.00,"Healthy Stock",234.90
+71-085-4290,Cucumber,"Fruits & Vegetables",31,98,72,1.80,55.80,"Reorder Required",129.60
+87-675-1506,Strawberries,"Fruits & Vegetables",31,89,7,5.90,182.90,"Reorder Required",41.30
+77-224-2227,"Almond Flour","Grains & Pulses",75,46,75,9.50,712.50,"Healthy Stock",712.50
+94-658-4945,"Sweet Potato","Fruits & Vegetables",65,10,81,2.00,130.00,"Healthy Stock",162.00
+15-562-3712,Cauliflower,"Fruits & Vegetables",33,89,15,2.50,82.50,"Reorder Required",37.50
+98-546-7398,Yogurt,Dairy,80,69,71,1.75,140.00,"Healthy Stock",124.25
+36-177-0573,"Egg (Turkey)",Dairy,92,1,23,2.50,230.00,"Healthy Stock",57.50
+39-358-3340,"Basmati Rice","Grains & Pulses",71,60,62,4.50,319.50,"Healthy Stock",279.00
+11-733-1756,"Rice Flour","Grains & Pulses",52,81,53,2.00,104.00,"Reorder Required",106.00
+01-026-2772,Blueberries,"Fruits & Vegetables",40,61,47,10.00,400.00,"Reorder Required",470.00
+84-198-7276,"Peanut Oil","Oils & Fats",60,88,65,4.00,240.00,"Reorder Required",260.00
+56-810-0550,Mackerel,Seafood,71,7,6,7.50,532.50,"Healthy Stock",45.00
+40-751-8635,Pineapple,"Fruits & Vegetables",44,80,84,3.40,149.60,"Reorder Required",285.60
+14-305-9690,"Sushi Rice","Grains & Pulses",19,17,14,4.30,81.70,"Healthy Stock",60.20
+83-727-0814,"Basmati Rice","Grains & Pulses",11,87,64,4.50,49.50,"Reorder Required",288.00
+71-015-9181,Pomegranate,"Fruits & Vegetables",22,35,55,6.00,132.00,"Reorder Required",330.00
+51-572-5497,Orange,"Fruits & Vegetables",15,44,88,3.00,45.00,"Reorder Required",264.00
+06-797-4963,Pomegranate,"Fruits & Vegetables",52,8,37,6.00,312.00,"Healthy Stock",222.00
+42-141-5718,Cheese,Dairy,100,31,43,9.00,900.00,"Healthy Stock",387.00
+37-606-0510,Milk,Dairy,18,64,86,1.00,18.00,"Reorder Required",86.00
+44-480-9446,"Sunflower Oil","Oils & Fats",39,13,13,2.50,97.50,"Healthy Stock",32.50
+78-237-0277,"Black Tea",Beverages,46,27,76,5.00,230.00,"Healthy Stock",380.00
+87-997-0228,Watermelon,"Fruits & Vegetables",71,4,37,3.00,213.00,"Healthy Stock",111.00
+42-674-3917,"Whole Wheat Flour","Grains & Pulses",41,76,47,2.65,108.65,"Reorder Required",124.55
+28-185-7303,"Robusta Coffee",Beverages,59,31,3,10.00,590.00,"Healthy Stock",30.00
+45-852-2446,Salmon,Seafood,73,12,28,15.00,1095.00,"Healthy Stock",420.00
+56-831-6199,Salmon,Seafood,49,48,62,15.00,735.00,"Healthy Stock",930.00
+82-538-4809,Cabbage,"Fruits & Vegetables",83,61,4,1.00,83.00,"Healthy Stock",4.00
+87-698-0944,Banana,"Fruits & Vegetables",56,12,59,98.43,5512.08,"Healthy Stock",5807.37
+30-964-2694,Peas,"Fruits & Vegetables",48,72,55,3.00,144.00,"Reorder Required",165.00
+09-335-7793,"Powdered Sugar","Grains & Pulses",66,19,20,2.40,158.40,"Healthy Stock",48.00
+99-033-5661,"Rice Flour","Grains & Pulses",42,3,21,2.00,84.00,"Healthy Stock",42.00
+90-128-7973,"Black Rice","Grains & Pulses",49,3,7,6.25,306.25,"Healthy Stock",43.75
+52-797-6961,Tilapia,Seafood,46,80,88,7.00,322.00,"Reorder Required",616.00
+39-232-5341,"Arborio Rice","Grains & Pulses",20,34,74,4.50,90.00,"Reorder Required",333.00
+46-931-6897,Cream,Dairy,29,32,26,2.50,72.50,"Reorder Required",65.00
+56-937-8675,Cream,Dairy,62,91,14,2.50,155.00,"Reorder Required",35.00
+54-830-6971,Tilapia,Seafood,100,61,21,7.00,700.00,"Healthy Stock",147.00
+90-865-9150,"Powdered Sugar","Grains & Pulses",28,24,97,2.50,70.00,"Healthy Stock",242.50
+42-887-6557,"Long Grain Rice","Grains & Pulses",26,82,19,1.50,39.00,"Reorder Required",28.50
+94-190-5193,Carrot,"Fruits & Vegetables",67,68,50,1.50,100.50,"Reorder Required",75.00
+00-440-9568,Blueberries,"Fruits & Vegetables",53,98,25,10.00,530.00,"Reorder Required",250.00
+74-294-3760,"Peanut Oil","Oils & Fats",49,17,54,4.00,196.00,"Healthy Stock",216.00
+66-806-6051,Yogurt,Dairy,63,12,82,1.70,107.10,"Healthy Stock",139.40
+81-844-2979,Broccoli,"Fruits & Vegetables",73,87,46,4.00,292.00,"Reorder Required",184.00
+80-072-8774,Tuna,Seafood,89,95,41,18.00,1602.00,"Reorder Required",738.00
+80-039-1261,Strawberries,"Fruits & Vegetables",26,97,12,6.00,156.00,"Reorder Required",72.00
+58-219-0241,"Avocado Oil","Oils & Fats",50,36,81,10.00,500.00,"Healthy Stock",810.00
+94-528-8088,Haddock,Seafood,43,7,63,9.00,387.00,"Healthy Stock",567.00
+95-349-0828,"Feta Cheese",Dairy,97,57,84,7.00,679.00,"Healthy Stock",588.00
+03-061-1344,Trout,Seafood,98,65,76,12.00,1176.00,"Healthy Stock",912.00
+67-984-5368,"Parmesan Cheese",Dairy,52,56,34,12.00,624.00,"Reorder Required",408.00
+44-782-1395,"Raw Sugar","Grains & Pulses",72,72,68,1.50,108.00,"Reorder Required",102.00
+75-927-9108,Cabbage,"Fruits & Vegetables",24,32,17,1.00,24.00,"Reorder Required",17.00
+78-614-4402,"Green Beans","Fruits & Vegetables",81,99,28,2.00,162.00,"Reorder Required",56.00
+01-903-5373,Strawberries,"Fruits & Vegetables",94,77,89,6.00,564.00,"Healthy Stock",534.00
