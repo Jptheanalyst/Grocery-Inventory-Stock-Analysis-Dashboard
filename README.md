@@ -5,7 +5,7 @@ A data analytics project using **MySQL and Tableau** to analyze grocery inventor
 
 ## Dashboard Preview
 
-<img width="1360" height="765" alt="inventory analysis dashboard" src="https://github.com/user-attachments/assets/fe9ce13e-2da1-4575-8f4f-d2b19c33bd7f" />
+![Grocery Inventory Dashboard](images/inventory-dashboard.jpeg)
 
 
 
